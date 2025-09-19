@@ -1,0 +1,10 @@
+# Ignore dataset
+/data/raw/*
+
+# Ignore Python virtual environment
+.venv/
+env/
+__pycache__/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
