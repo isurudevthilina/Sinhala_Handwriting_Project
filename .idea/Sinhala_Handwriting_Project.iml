@@ -3,6 +3,10 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/data/raw/external" />
+      <excludeFolder url="file://$MODULE_DIR$/data/raw/test" />
+      <excludeFolder url="file://$MODULE_DIR$/data/raw/train" />
+      <excludeFolder url="file://$MODULE_DIR$/data/raw/valid" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11 (Sinhala_Handwriting_Project)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

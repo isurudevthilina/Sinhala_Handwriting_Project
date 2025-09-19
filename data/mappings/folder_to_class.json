@@ -1,0 +1,5456 @@
+{
+    "train": {
+        "1": {
+            "character": "අ",
+            "index": 0
+        },
+        "10": {
+            "character": "ඔ",
+            "index": 9
+        },
+        "100": {
+            "character": "තෝ",
+            "index": 99
+        },
+        "101": {
+            "character": "ත්‍ර",
+            "index": 100
+        },
+        "102": {
+            "character": "ත්‍රා",
+            "index": 101
+        },
+        "103": {
+            "character": "ත්‍රි",
+            "index": 102
+        },
+        "104": {
+            "character": "ත්‍රී",
+            "index": 103
+        },
+        "105": {
+            "character": "ද ",
+            "index": 104
+        },
+        "106": {
+            "character": "දා",
+            "index": 105
+        },
+        "107": {
+            "character": "දැ",
+            "index": 106
+        },
+        "108": {
+            "character": "දෑ",
+            "index": 107
+        },
+        "109": {
+            "character": "දි",
+            "index": 108
+        },
+        "11": {
+            "character": "ඕ",
+            "index": 10
+        },
+        "110": {
+            "character": "දී",
+            "index": 109
+        },
+        "111": {
+            "character": "දු",
+            "index": 110
+        },
+        "112": {
+            "character": "දූ",
+            "index": 111
+        },
+        "113": {
+            "character": "ද්",
+            "index": 112
+        },
+        "114": {
+            "character": "දෝ",
+            "index": 113
+        },
+        "115": {
+            "character": "ද්‍ර",
+            "index": 114
+        },
+        "116": {
+            "character": "ද්‍රෝ",
+            "index": 115
+        },
+        "117": {
+            "character": "ද්‍රා",
+            "index": 116
+        },
+        "118": {
+            "character": "ද්‍රි",
+            "index": 117
+        },
+        "119": {
+            "character": "ද්‍රී",
+            "index": 118
+        },
+        "12": {
+            "character": "ක",
+            "index": 11
+        },
+        "120": {
+            "character": "න",
+            "index": 119
+        },
+        "121": {
+            "character": "නා",
+            "index": 120
+        },
+        "122": {
+            "character": "නැ",
+            "index": 121
+        },
+        "123": {
+            "character": "නෑ",
+            "index": 122
+        },
+        "124": {
+            "character": "නි",
+            "index": 123
+        },
+        "125": {
+            "character": "නී",
+            "index": 124
+        },
+        "126": {
+            "character": "නු",
+            "index": 125
+        },
+        "127": {
+            "character": "නූ",
+            "index": 126
+        },
+        "128": {
+            "character": "න්",
+            "index": 127
+        },
+        "129": {
+            "character": "නෝ",
+            "index": 128
+        },
+        "13": {
+            "character": "කා",
+            "index": 12
+        },
+        "130": {
+            "character": "න්‍ර",
+            "index": 129
+        },
+        "131": {
+            "character": "න්‍රා",
+            "index": 130
+        },
+        "132": {
+            "character": "න්‍රි",
+            "index": 131
+        },
+        "133": {
+            "character": "න්‍රී",
+            "index": 132
+        },
+        "134": {
+            "character": "ප",
+            "index": 133
+        },
+        "135": {
+            "character": "පා",
+            "index": 134
+        },
+        "136": {
+            "character": "පැ",
+            "index": 135
+        },
+        "137": {
+            "character": "පෑ",
+            "index": 136
+        },
+        "138": {
+            "character": "පි",
+            "index": 137
+        },
+        "139": {
+            "character": "පී",
+            "index": 138
+        },
+        "14": {
+            "character": "කැ",
+            "index": 13
+        },
+        "140": {
+            "character": "පු",
+            "index": 139
+        },
+        "141": {
+            "character": "පූ",
+            "index": 140
+        },
+        "142": {
+            "character": "ප්",
+            "index": 141
+        },
+        "143": {
+            "character": "ප්‍රෝ",
+            "index": 142
+        },
+        "144": {
+            "character": "පෝ",
+            "index": 143
+        },
+        "145": {
+            "character": "ප්‍ර",
+            "index": 144
+        },
+        "146": {
+            "character": "ප්‍රා",
+            "index": 145
+        },
+        "147": {
+            "character": "ප්‍රි",
+            "index": 146
+        },
+        "148": {
+            "character": "ප්‍රී",
+            "index": 147
+        },
+        "149": {
+            "character": "බ",
+            "index": 148
+        },
+        "15": {
+            "character": "කෑ",
+            "index": 14
+        },
+        "150": {
+            "character": "බා",
+            "index": 149
+        },
+        "151": {
+            "character": "බැ",
+            "index": 150
+        },
+        "152": {
+            "character": "බෑ",
+            "index": 151
+        },
+        "153": {
+            "character": "බි",
+            "index": 152
+        },
+        "154": {
+            "character": "බී",
+            "index": 153
+        },
+        "155": {
+            "character": "බු",
+            "index": 154
+        },
+        "156": {
+            "character": "බූ",
+            "index": 155
+        },
+        "157": {
+            "character": "බ්",
+            "index": 156
+        },
+        "158": {
+            "character": "බ්‍රෝ",
+            "index": 157
+        },
+        "159": {
+            "character": "බ්‍ර",
+            "index": 158
+        },
+        "16": {
+            "character": "කි",
+            "index": 15
+        },
+        "160": {
+            "character": "බ්‍රා",
+            "index": 159
+        },
+        "161": {
+            "character": "බ්‍රි",
+            "index": 160
+        },
+        "162": {
+            "character": "බ්‍රී",
+            "index": 161
+        },
+        "163": {
+            "character": "බ්‍රෝ",
+            "index": 162
+        },
+        "164": {
+            "character": "ම",
+            "index": 163
+        },
+        "165": {
+            "character": "මා",
+            "index": 164
+        },
+        "166": {
+            "character": "මැ",
+            "index": 165
+        },
+        "167": {
+            "character": "මෑ",
+            "index": 166
+        },
+        "168": {
+            "character": "මි",
+            "index": 167
+        },
+        "169": {
+            "character": "මී",
+            "index": 168
+        },
+        "17": {
+            "character": "කී",
+            "index": 16
+        },
+        "170": {
+            "character": "මු",
+            "index": 169
+        },
+        "171": {
+            "character": "මූ",
+            "index": 170
+        },
+        "172": {
+            "character": "ම්",
+            "index": 171
+        },
+        "173": {
+            "character": "මෝ",
+            "index": 172
+        },
+        "174": {
+            "character": "ම්‍ර",
+            "index": 173
+        },
+        "175": {
+            "character": "ම්‍රා",
+            "index": 174
+        },
+        "176": {
+            "character": "ම්‍රි",
+            "index": 175
+        },
+        "177": {
+            "character": "ම්‍රී",
+            "index": 176
+        },
+        "178": {
+            "character": "ම්‍රෝ",
+            "index": 177
+        },
+        "179": {
+            "character": "ය",
+            "index": 178
+        },
+        "18": {
+            "character": "කු",
+            "index": 17
+        },
+        "180": {
+            "character": "යා",
+            "index": 179
+        },
+        "181": {
+            "character": "යැ",
+            "index": 180
+        },
+        "182": {
+            "character": "යෑ",
+            "index": 181
+        },
+        "183": {
+            "character": "යි",
+            "index": 182
+        },
+        "184": {
+            "character": "යී",
+            "index": 183
+        },
+        "185": {
+            "character": "යු",
+            "index": 184
+        },
+        "186": {
+            "character": "යූ",
+            "index": 185
+        },
+        "187": {
+            "character": "ෝ",
+            "index": 186
+        },
+        "188": {
+            "character": "ය්",
+            "index": 187
+        },
+        "189": {
+            "character": "hda",
+            "index": 188
+        },
+        "19": {
+            "character": "කූ",
+            "index": 18
+        },
+        "190": {
+            "character": "ර",
+            "index": 189
+        },
+        "191": {
+            "character": "රා",
+            "index": 190
+        },
+        "192": {
+            "character": "රැ",
+            "index": 191
+        },
+        "193": {
+            "character": "රැ",
+            "index": 192
+        },
+        "194": {
+            "character": "රු",
+            "index": 193
+        },
+        "195": {
+            "character": "රූ",
+            "index": 194
+        },
+        "196": {
+            "character": "රි",
+            "index": 195
+        },
+        "197": {
+            "character": "රී",
+            "index": 196
+        },
+        "198": {
+            "character": "ල",
+            "index": 197
+        },
+        "199": {
+            "character": "ලා",
+            "index": 198
+        },
+        "2": {
+            "character": "ආ",
+            "index": 1
+        },
+        "20": {
+            "character": "ක්",
+            "index": 19
+        },
+        "200": {
+            "character": "ලැ",
+            "index": 199
+        },
+        "201": {
+            "character": "ලෑ",
+            "index": 200
+        },
+        "202": {
+            "character": "ලි",
+            "index": 201
+        },
+        "203": {
+            "character": "ලී",
+            "index": 202
+        },
+        "204": {
+            "character": "ලු",
+            "index": 203
+        },
+        "205": {
+            "character": "ලූ",
+            "index": 204
+        },
+        "206": {
+            "character": "ල්",
+            "index": 205
+        },
+        "207": {
+            "character": ",da",
+            "index": 206
+        },
+        "208": {
+            "character": "ව",
+            "index": 207
+        },
+        "209": {
+            "character": "වා",
+            "index": 208
+        },
+        "21": {
+            "character": "කෝ",
+            "index": 20
+        },
+        "210": {
+            "character": "වැ",
+            "index": 209
+        },
+        "211": {
+            "character": "වෑ",
+            "index": 210
+        },
+        "212": {
+            "character": "වි",
+            "index": 211
+        },
+        "213": {
+            "character": "වී",
+            "index": 212
+        },
+        "214": {
+            "character": "වු",
+            "index": 213
+        },
+        "215": {
+            "character": "වූ",
+            "index": 214
+        },
+        "216": {
+            "character": "ව්",
+            "index": 215
+        },
+        "217": {
+            "character": "jda",
+            "index": 216
+        },
+        "218": {
+            "character": "ව්‍ර",
+            "index": 217
+        },
+        "219": {
+            "character": "ව්‍රා",
+            "index": 218
+        },
+        "22": {
+            "character": "ක්‍ර",
+            "index": 21
+        },
+        "220": {
+            "character": "ව්‍රැ",
+            "index": 219
+        },
+        "221": {
+            "character": "ව්‍රෑ",
+            "index": 220
+        },
+        "222": {
+            "character": "j%da",
+            "index": 221
+        },
+        "223": {
+            "character": "ශ",
+            "index": 222
+        },
+        "224": {
+            "character": "ශා",
+            "index": 223
+        },
+        "225": {
+            "character": "ශැ",
+            "index": 224
+        },
+        "226": {
+            "character": "ශෑ",
+            "index": 225
+        },
+        "227": {
+            "character": "ශි",
+            "index": 226
+        },
+        "228": {
+            "character": "ශී",
+            "index": 227
+        },
+        "229": {
+            "character": "ශු",
+            "index": 228
+        },
+        "23": {
+            "character": "ක්‍රි",
+            "index": 22
+        },
+        "230": {
+            "character": "ශූ",
+            "index": 229
+        },
+        "231": {
+            "character": "ශ්",
+            "index": 230
+        },
+        "232": {
+            "character": "Yda",
+            "index": 231
+        },
+        "233": {
+            "character": "ශ්‍ර",
+            "index": 232
+        },
+        "234": {
+            "character": "ශ්‍රා",
+            "index": 233
+        },
+        "235": {
+            "character": "ශ්‍රැ",
+            "index": 234
+        },
+        "236": {
+            "character": "ශ්‍රෑ",
+            "index": 235
+        },
+        "237": {
+            "character": "ශ්‍රි",
+            "index": 236
+        },
+        "238": {
+            "character": "ශ්‍රී",
+            "index": 237
+        },
+        "239": {
+            "character": "Y%da",
+            "index": 238
+        },
+        "24": {
+            "character": "ක්‍රී",
+            "index": 23
+        },
+        "240": {
+            "character": "ෂ",
+            "index": 239
+        },
+        "241": {
+            "character": "ෂා",
+            "index": 240
+        },
+        "242": {
+            "character": "ෂැ",
+            "index": 241
+        },
+        "243": {
+            "character": "ෂෑ",
+            "index": 242
+        },
+        "244": {
+            "character": "ෂි",
+            "index": 243
+        },
+        "245": {
+            "character": "ෂී",
+            "index": 244
+        },
+        "246": {
+            "character": "ෂු",
+            "index": 245
+        },
+        "247": {
+            "character": "ෂූ",
+            "index": 246
+        },
+        "248": {
+            "character": "ෂ්",
+            "index": 247
+        },
+        "249": {
+            "character": "Ida",
+            "index": 248
+        },
+        "25": {
+            "character": "ග",
+            "index": 24
+        },
+        "250": {
+            "character": "ස",
+            "index": 249
+        },
+        "251": {
+            "character": "සා",
+            "index": 250
+        },
+        "252": {
+            "character": "සැ",
+            "index": 251
+        },
+        "253": {
+            "character": "සෑ",
+            "index": 252
+        },
+        "254": {
+            "character": "සි",
+            "index": 253
+        },
+        "255": {
+            "character": "සී",
+            "index": 254
+        },
+        "256": {
+            "character": "සු",
+            "index": 255
+        },
+        "257": {
+            "character": "සූ",
+            "index": 256
+        },
+        "258": {
+            "character": "ida",
+            "index": 257
+        },
+        "259": {
+            "character": "ස්‍ර",
+            "index": 258
+        },
+        "26": {
+            "character": "ගා",
+            "index": 25
+        },
+        "260": {
+            "character": "ස්‍රා",
+            "index": 259
+        },
+        "261": {
+            "character": "ස්‍රි",
+            "index": 260
+        },
+        "262": {
+            "character": "ස්‍රී",
+            "index": 261
+        },
+        "263": {
+            "character": "ස්",
+            "index": 262
+        },
+        "264": {
+            "character": "හ",
+            "index": 263
+        },
+        "265": {
+            "character": "හා",
+            "index": 264
+        },
+        "266": {
+            "character": "හැ",
+            "index": 265
+        },
+        "267": {
+            "character": "හෑ",
+            "index": 266
+        },
+        "268": {
+            "character": "හි",
+            "index": 267
+        },
+        "269": {
+            "character": "හී",
+            "index": 268
+        },
+        "27": {
+            "character": "ගැ",
+            "index": 26
+        },
+        "270": {
+            "character": "හු",
+            "index": 269
+        },
+        "271": {
+            "character": "හූ",
+            "index": 270
+        },
+        "272": {
+            "character": "හ්",
+            "index": 271
+        },
+        "273": {
+            "character": "yda",
+            "index": 272
+        },
+        "274": {
+            "character": "ළ",
+            "index": 273
+        },
+        "275": {
+            "character": "ළා",
+            "index": 274
+        },
+        "276": {
+            "character": "ළැ",
+            "index": 275
+        },
+        "277": {
+            "character": "ළෑ",
+            "index": 276
+        },
+        "278": {
+            "character": "ළි",
+            "index": 277
+        },
+        "279": {
+            "character": "ළී",
+            "index": 278
+        },
+        "28": {
+            "character": "ගෑ",
+            "index": 27
+        },
+        "280": {
+            "character": "ළූ",
+            "index": 279
+        },
+        "281": {
+            "character": "ළූ",
+            "index": 280
+        },
+        "282": {
+            "character": "ෆ",
+            "index": 281
+        },
+        "283": {
+            "character": "ෆා",
+            "index": 282
+        },
+        "284": {
+            "character": "ෆැ",
+            "index": 283
+        },
+        "285": {
+            "character": "ෆෑ",
+            "index": 284
+        },
+        "286": {
+            "character": "ෆි",
+            "index": 285
+        },
+        "287": {
+            "character": "ෆී",
+            "index": 286
+        },
+        "288": {
+            "character": "ෆූ",
+            "index": 287
+        },
+        "289": {
+            "character": "ෆූ",
+            "index": 288
+        },
+        "29": {
+            "character": "ගි",
+            "index": 28
+        },
+        "290": {
+            "character": "ෆ්‍ර",
+            "index": 289
+        },
+        "291": {
+            "character": "ෆ්‍රි",
+            "index": 290
+        },
+        "292": {
+            "character": "ෆ්‍රී",
+            "index": 291
+        },
+        "293": {
+            "character": "ෆ්‍රැ",
+            "index": 292
+        },
+        "294": {
+            "character": "ෆ්‍රෑ",
+            "index": 293
+        },
+        "295": {
+            "character": "ෆ්",
+            "index": 294
+        },
+        "296": {
+            "character": "*da",
+            "index": 295
+        },
+        "297": {
+            "character": "ක්‍රා",
+            "index": 296
+        },
+        "298": {
+            "character": "ක්‍රැ",
+            "index": 297
+        },
+        "299": {
+            "character": "ක්‍රෑ",
+            "index": 298
+        },
+        "3": {
+            "character": "ඇ",
+            "index": 2
+        },
+        "30": {
+            "character": "ගී",
+            "index": 29
+        },
+        "300": {
+            "character": "l%da",
+            "index": 299
+        },
+        "301": {
+            "character": ".%da",
+            "index": 300
+        },
+        "302": {
+            "character": "ඛ",
+            "index": 301
+        },
+        "303": {
+            "character": "ඛා",
+            "index": 302
+        },
+        "304": {
+            "character": "ඛි",
+            "index": 303
+        },
+        "305": {
+            "character": "ඛී",
+            "index": 304
+        },
+        "306": {
+            "character": "ඛ්",
+            "index": 305
+        },
+        "307": {
+            "character": "ඝ",
+            "index": 306
+        },
+        "308": {
+            "character": "ඝා",
+            "index": 307
+        },
+        "309": {
+            "character": "ඝැ",
+            "index": 308
+        },
+        "31": {
+            "character": "ගු",
+            "index": 30
+        },
+        "310": {
+            "character": "ඝෑ",
+            "index": 309
+        },
+        "311": {
+            "character": "ඝි",
+            "index": 310
+        },
+        "312": {
+            "character": "ඝී",
+            "index": 311
+        },
+        "313": {
+            "character": "ඝු",
+            "index": 312
+        },
+        "314": {
+            "character": "ඝූ",
+            "index": 313
+        },
+        "315": {
+            "character": ">da",
+            "index": 314
+        },
+        "316": {
+            "character": "ඝ්",
+            "index": 315
+        },
+        "317": {
+            "character": "ඝ්‍ර",
+            "index": 316
+        },
+        "318": {
+            "character": "ඝ්‍රා",
+            "index": 317
+        },
+        "319": {
+            "character": "ඝ්‍රි",
+            "index": 318
+        },
+        "32": {
+            "character": "ගූ",
+            "index": 31
+        },
+        "320": {
+            "character": "ඝ්‍රී",
+            "index": 319
+        },
+        "321": {
+            "character": "ඳ",
+            "index": 320
+        },
+        "322": {
+            "character": "ඳා",
+            "index": 321
+        },
+        "323": {
+            "character": "ඳැ",
+            "index": 322
+        },
+        "324": {
+            "character": "ෑ",
+            "index": 323
+        },
+        "325": {
+            "character": "ඳෑ",
+            "index": 324
+        },
+        "326": {
+            "character": "ඳි",
+            "index": 325
+        },
+        "327": {
+            "character": "ඳී",
+            "index": 326
+        },
+        "328": {
+            "character": "ඳු",
+            "index": 327
+        },
+        "329": {
+            "character": "ඳූ",
+            "index": 328
+        },
+        "33": {
+            "character": "ග්",
+            "index": 32
+        },
+        "330": {
+            "character": "|da ",
+            "index": 329
+        },
+        "331": {
+            "character": " ඳ්",
+            "index": 330
+        },
+        "332": {
+            "character": "ඟ",
+            "index": 331
+        },
+        "333": {
+            "character": "ඟා",
+            "index": 332
+        },
+        "334": {
+            "character": "ඟැ",
+            "index": 333
+        },
+        "335": {
+            "character": " ඟෑ",
+            "index": 334
+        },
+        "336": {
+            "character": " ඟි",
+            "index": 335
+        },
+        "337": {
+            "character": "ඟී",
+            "index": 336
+        },
+        "338": {
+            "character": " ඟු",
+            "index": 337
+        },
+        "339": {
+            "character": " ඟූ",
+            "index": 338
+        },
+        "34": {
+            "character": "ගෝ",
+            "index": 33
+        },
+        "340": {
+            "character": "Õda",
+            "index": 339
+        },
+        "341": {
+            "character": "ඟ්",
+            "index": 340
+        },
+        "342": {
+            "character": "ඬ",
+            "index": 341
+        },
+        "343": {
+            "character": "ැ",
+            "index": 342
+        },
+        "344": {
+            "character": "ඬා",
+            "index": 343
+        },
+        "345": {
+            "character": " ඬැ",
+            "index": 344
+        },
+        "346": {
+            "character": "ඬෑ",
+            "index": 345
+        },
+        "347": {
+            "character": " ඬි",
+            "index": 346
+        },
+        "348": {
+            "character": "ඬී",
+            "index": 347
+        },
+        "349": {
+            "character": " ඬු",
+            "index": 348
+        },
+        "35": {
+            "character": "ග්‍ර",
+            "index": 34
+        },
+        "350": {
+            "character": "ඬූ",
+            "index": 349
+        },
+        "351": {
+            "character": "ඬda ",
+            "index": 350
+        },
+        "352": {
+            "character": " ඬ්",
+            "index": 351
+        },
+        "353": {
+            "character": "ඹ",
+            "index": 352
+        },
+        "354": {
+            "character": "ඹා",
+            "index": 353
+        },
+        "355": {
+            "character": " ඹැ",
+            "index": 354
+        },
+        "356": {
+            "character": " ඹෑ",
+            "index": 355
+        },
+        "357": {
+            "character": " ඹි",
+            "index": 356
+        },
+        "358": {
+            "character": "ඹී",
+            "index": 357
+        },
+        "359": {
+            "character": " ඹු",
+            "index": 358
+        },
+        "36": {
+            "character": "ග්‍රි",
+            "index": 35
+        },
+        "360": {
+            "character": "ඹූ",
+            "index": 359
+        },
+        "361": {
+            "character": "Uda",
+            "index": 360
+        },
+        "362": {
+            "character": "ඹ්",
+            "index": 361
+        },
+        "363": {
+            "character": "භ",
+            "index": 362
+        },
+        "364": {
+            "character": "භා",
+            "index": 363
+        },
+        "365": {
+            "character": "භැ",
+            "index": 364
+        },
+        "366": {
+            "character": "භෑ",
+            "index": 365
+        },
+        "367": {
+            "character": "භි",
+            "index": 366
+        },
+        "368": {
+            "character": "භී",
+            "index": 367
+        },
+        "369": {
+            "character": "භු",
+            "index": 368
+        },
+        "37": {
+            "character": "ග්‍රී",
+            "index": 36
+        },
+        "370": {
+            "character": "භූ",
+            "index": 369
+        },
+        "371": {
+            "character": "Nda",
+            "index": 370
+        },
+        "372": {
+            "character": "භ්",
+            "index": 371
+        },
+        "373": {
+            "character": "ධ",
+            "index": 372
+        },
+        "374": {
+            "character": "ධා",
+            "index": 373
+        },
+        "375": {
+            "character": "ධැ",
+            "index": 374
+        },
+        "376": {
+            "character": "ධෑ",
+            "index": 375
+        },
+        "377": {
+            "character": ",ධි",
+            "index": 376
+        },
+        "378": {
+            "character": ",ධී",
+            "index": 377
+        },
+        "379": {
+            "character": ",ධු",
+            "index": 378
+        },
+        "38": {
+            "character": "ච",
+            "index": 37
+        },
+        "380": {
+            "character": ",ධූ",
+            "index": 379
+        },
+        "381": {
+            "character": "ධෝ",
+            "index": 380
+        },
+        "382": {
+            "character": "ධ්",
+            "index": 381
+        },
+        "383": {
+            "character": "ඨ",
+            "index": 382
+        },
+        "384": {
+            "character": "ඨා",
+            "index": 383
+        },
+        "385": {
+            "character": "ඨැ",
+            "index": 384
+        },
+        "386": {
+            "character": "ඨි",
+            "index": 385
+        },
+        "387": {
+            "character": "ඨී",
+            "index": 386
+        },
+        "388": {
+            "character": "ඨු",
+            "index": 387
+        },
+        "389": {
+            "character": "ඨූ",
+            "index": 388
+        },
+        "39": {
+            "character": "චා",
+            "index": 38
+        },
+        "390": {
+            "character": "ඨ්",
+            "index": 389
+        },
+        "391": {
+            "character": "ඪ",
+            "index": 390
+        },
+        "392": {
+            "character": "ඪා",
+            "index": 391
+        },
+        "393": {
+            "character": "ඪි",
+            "index": 392
+        },
+        "394": {
+            "character": "Vda",
+            "index": 393
+        },
+        "395": {
+            "character": "ඵ",
+            "index": 394
+        },
+        "396": {
+            "character": "ඵා",
+            "index": 395
+        },
+        "397": {
+            "character": "ඵු",
+            "index": 396
+        },
+        "398": {
+            "character": "ඵි",
+            "index": 397
+        },
+        "399": {
+            "character": "Mda",
+            "index": 398
+        },
+        "4": {
+            "character": "ඈ",
+            "index": 3
+        },
+        "40": {
+            "character": "චැ",
+            "index": 39
+        },
+        "400": {
+            "character": "ඵ් ",
+            "index": 399
+        },
+        "401": {
+            "character": "ථ",
+            "index": 400
+        },
+        "402": {
+            "character": "ථා",
+            "index": 401
+        },
+        "403": {
+            "character": "ථැ",
+            "index": 402
+        },
+        "404": {
+            "character": "ථ්",
+            "index": 403
+        },
+        "405": {
+            "character": "ා",
+            "index": 404
+        },
+        "406": {
+            "character": "ෟ",
+            "index": 405
+        },
+        "407": {
+            "character": "ණැ",
+            "index": 406
+        },
+        "408": {
+            "character": "ණෑ",
+            "index": 407
+        },
+        "409": {
+            "character": "ෘ",
+            "index": 408
+        },
+        "41": {
+            "character": "චෑ",
+            "index": 40
+        },
+        "410": {
+            "character": "ණී",
+            "index": 409
+        },
+        "411": {
+            "character": "ණු",
+            "index": 410
+        },
+        "412": {
+            "character": "ණූ",
+            "index": 411
+        },
+        "413": {
+            "character": "Kda",
+            "index": 412
+        },
+        "414": {
+            "character": "ණ්",
+            "index": 413
+        },
+        "415": {
+            "character": "ඥ",
+            "index": 414
+        },
+        "416": {
+            "character": "ඥා",
+            "index": 415
+        },
+        "417": {
+            "character": "{da",
+            "index": 416
+        },
+        "418": {
+            "character": "ඤ",
+            "index": 417
+        },
+        "419": {
+            "character": "ඤා",
+            "index": 418
+        },
+        "42": {
+            "character": "චි",
+            "index": 41
+        },
+        "420": {
+            "character": "ඤු",
+            "index": 419
+        },
+        "421": {
+            "character": "[da",
+            "index": 420
+        },
+        "422": {
+            "character": "ඤ්",
+            "index": 421
+        },
+        "423": {
+            "character": "ඣ",
+            "index": 422
+        },
+        "424": {
+            "character": "ඣා",
+            "index": 423
+        },
+        "425": {
+            "character": "ඣු",
+            "index": 424
+        },
+        "426": {
+            "character": "COda",
+            "index": 425
+        },
+        "427": {
+            "character": "ඣ්",
+            "index": 426
+        },
+        "428": {
+            "character": "ඦ",
+            "index": 427
+        },
+        "429": {
+            "character": "ඦා",
+            "index": 428
+        },
+        "43": {
+            "character": "චී",
+            "index": 42
+        },
+        "430": {
+            "character": "ඦැ",
+            "index": 429
+        },
+        "431": {
+            "character": "ඦෑ",
+            "index": 430
+        },
+        "432": {
+            "character": "ඦි",
+            "index": 431
+        },
+        "433": {
+            "character": "ඦු",
+            "index": 432
+        },
+        "434": {
+            "character": "ඦූ",
+            "index": 433
+        },
+        "435": {
+            "character": "ඦෝ",
+            "index": 434
+        },
+        "436": {
+            "character": "ඦ්",
+            "index": 435
+        },
+        "437": {
+            "character": "ඡ",
+            "index": 436
+        },
+        "438": {
+            "character": "ඡා",
+            "index": 437
+        },
+        "439": {
+            "character": "ඡැ",
+            "index": 438
+        },
+        "44": {
+            "character": "චු",
+            "index": 43
+        },
+        "440": {
+            "character": "ඡෑ",
+            "index": 439
+        },
+        "441": {
+            "character": "ඡි",
+            "index": 440
+        },
+        "442": {
+            "character": "ඡේ",
+            "index": 441
+        },
+        "443": {
+            "character": "තැ",
+            "index": 442
+        },
+        "444": {
+            "character": "තෑ",
+            "index": 443
+        },
+        "445": {
+            "character": "ත්‍රැ",
+            "index": 444
+        },
+        "446": {
+            "character": "ත්‍රෑ",
+            "index": 445
+        },
+        "447": {
+            "character": ";%da",
+            "index": 446
+        },
+        "448": {
+            "character": "ළු",
+            "index": 447
+        },
+        "449": {
+            "character": "ෲ",
+            "index": 448
+        },
+        "45": {
+            "character": "චූ",
+            "index": 44
+        },
+        "450": {
+            "character": "HQ",
+            "index": 449
+        },
+        "451": {
+            "character": "ff",
+            "index": 450
+        },
+        "452": {
+            "character": "f",
+            "index": 451
+        },
+        "453": {
+            "character": "H",
+            "index": 452
+        },
+        "454": {
+            "character": "Hq",
+            "index": 453
+        },
+        "46": {
+            "character": "ච්",
+            "index": 45
+        },
+        "47": {
+            "character": "චෝ",
+            "index": 46
+        },
+        "48": {
+            "character": "ච්‍ර",
+            "index": 47
+        },
+        "49": {
+            "character": "ච්‍ර්",
+            "index": 48
+        },
+        "5": {
+            "character": "ඉ",
+            "index": 4
+        },
+        "50": {
+            "character": "ච්‍රී",
+            "index": 49
+        },
+        "51": {
+            "character": "ජ",
+            "index": 50
+        },
+        "52": {
+            "character": "ජා",
+            "index": 51
+        },
+        "53": {
+            "character": "ජැ",
+            "index": 52
+        },
+        "54": {
+            "character": "ජෑ",
+            "index": 53
+        },
+        "55": {
+            "character": "ජි",
+            "index": 54
+        },
+        "56": {
+            "character": "ජී",
+            "index": 55
+        },
+        "57": {
+            "character": "ජු",
+            "index": 56
+        },
+        "58": {
+            "character": "ජූ",
+            "index": 57
+        },
+        "59": {
+            "character": "ජ්",
+            "index": 58
+        },
+        "6": {
+            "character": "ඊ",
+            "index": 5
+        },
+        "60": {
+            "character": "ජෝ",
+            "index": 59
+        },
+        "61": {
+            "character": "ජ්‍ර",
+            "index": 60
+        },
+        "62": {
+            "character": "ජ්‍රි",
+            "index": 61
+        },
+        "63": {
+            "character": "ජ්‍රී",
+            "index": 62
+        },
+        "64": {
+            "character": "ට",
+            "index": 63
+        },
+        "65": {
+            "character": "ටා",
+            "index": 64
+        },
+        "66": {
+            "character": "ටැ",
+            "index": 65
+        },
+        "67": {
+            "character": "ටෑ",
+            "index": 66
+        },
+        "68": {
+            "character": "ටි",
+            "index": 67
+        },
+        "69": {
+            "character": "ටී",
+            "index": 68
+        },
+        "7": {
+            "character": "උ",
+            "index": 6
+        },
+        "70": {
+            "character": "ටු",
+            "index": 69
+        },
+        "71": {
+            "character": "ටූ",
+            "index": 70
+        },
+        "72": {
+            "character": "ට්",
+            "index": 71
+        },
+        "73": {
+            "character": "ටෝ",
+            "index": 72
+        },
+        "74": {
+            "character": "ට්‍ර",
+            "index": 73
+        },
+        "75": {
+            "character": "ට්‍ර්",
+            "index": 74
+        },
+        "76": {
+            "character": "ට්‍රි",
+            "index": 75
+        },
+        "77": {
+            "character": "ඩ",
+            "index": 76
+        },
+        "78": {
+            "character": "ඩා",
+            "index": 77
+        },
+        "79": {
+            "character": "ඩැ",
+            "index": 78
+        },
+        "8": {
+            "character": "එ",
+            "index": 7
+        },
+        "80": {
+            "character": "ඩෑ",
+            "index": 79
+        },
+        "81": {
+            "character": "ඩි",
+            "index": 80
+        },
+        "82": {
+            "character": "ඩී",
+            "index": 81
+        },
+        "83": {
+            "character": "ඩු",
+            "index": 82
+        },
+        "84": {
+            "character": "ඩූ",
+            "index": 83
+        },
+        "85": {
+            "character": "ඩ්",
+            "index": 84
+        },
+        "86": {
+            "character": "ඩෝ",
+            "index": 85
+        },
+        "87": {
+            "character": "ඩ්‍ර",
+            "index": 86
+        },
+        "88": {
+            "character": "ඩ්‍ර්",
+            "index": 87
+        },
+        "89": {
+            "character": "ඩ්‍රි",
+            "index": 88
+        },
+        "9": {
+            "character": "ඒ",
+            "index": 8
+        },
+        "90": {
+            "character": "ණ",
+            "index": 89
+        },
+        "91": {
+            "character": "ණා",
+            "index": 90
+        },
+        "92": {
+            "character": "ණි",
+            "index": 91
+        },
+        "93": {
+            "character": "ත",
+            "index": 92
+        },
+        "94": {
+            "character": "තා",
+            "index": 93
+        },
+        "95": {
+            "character": "ති",
+            "index": 94
+        },
+        "96": {
+            "character": "තී",
+            "index": 95
+        },
+        "97": {
+            "character": "තු",
+            "index": 96
+        },
+        "98": {
+            "character": "තූ",
+            "index": 97
+        },
+        "99": {
+            "character": "ත්",
+            "index": 98
+        }
+    },
+    "valid": {
+        "1": {
+            "character": "අ",
+            "index": 0
+        },
+        "10": {
+            "character": "ඔ",
+            "index": 9
+        },
+        "100": {
+            "character": "තෝ",
+            "index": 99
+        },
+        "101": {
+            "character": "ත්‍ර",
+            "index": 100
+        },
+        "102": {
+            "character": "ත්‍රා",
+            "index": 101
+        },
+        "103": {
+            "character": "ත්‍රි",
+            "index": 102
+        },
+        "104": {
+            "character": "ත්‍රී",
+            "index": 103
+        },
+        "105": {
+            "character": "ද ",
+            "index": 104
+        },
+        "106": {
+            "character": "දා",
+            "index": 105
+        },
+        "107": {
+            "character": "දැ",
+            "index": 106
+        },
+        "108": {
+            "character": "දෑ",
+            "index": 107
+        },
+        "109": {
+            "character": "දි",
+            "index": 108
+        },
+        "11": {
+            "character": "ඕ",
+            "index": 10
+        },
+        "110": {
+            "character": "දී",
+            "index": 109
+        },
+        "111": {
+            "character": "දු",
+            "index": 110
+        },
+        "112": {
+            "character": "දූ",
+            "index": 111
+        },
+        "113": {
+            "character": "ද්",
+            "index": 112
+        },
+        "114": {
+            "character": "දෝ",
+            "index": 113
+        },
+        "115": {
+            "character": "ද්‍ර",
+            "index": 114
+        },
+        "116": {
+            "character": "ද්‍රෝ",
+            "index": 115
+        },
+        "117": {
+            "character": "ද්‍රා",
+            "index": 116
+        },
+        "118": {
+            "character": "ද්‍රි",
+            "index": 117
+        },
+        "119": {
+            "character": "ද්‍රී",
+            "index": 118
+        },
+        "12": {
+            "character": "ක",
+            "index": 11
+        },
+        "120": {
+            "character": "න",
+            "index": 119
+        },
+        "121": {
+            "character": "නා",
+            "index": 120
+        },
+        "122": {
+            "character": "නැ",
+            "index": 121
+        },
+        "123": {
+            "character": "නෑ",
+            "index": 122
+        },
+        "124": {
+            "character": "නි",
+            "index": 123
+        },
+        "125": {
+            "character": "නී",
+            "index": 124
+        },
+        "126": {
+            "character": "නු",
+            "index": 125
+        },
+        "127": {
+            "character": "නූ",
+            "index": 126
+        },
+        "128": {
+            "character": "න්",
+            "index": 127
+        },
+        "129": {
+            "character": "නෝ",
+            "index": 128
+        },
+        "13": {
+            "character": "කා",
+            "index": 12
+        },
+        "130": {
+            "character": "න්‍ර",
+            "index": 129
+        },
+        "131": {
+            "character": "න්‍රා",
+            "index": 130
+        },
+        "132": {
+            "character": "න්‍රි",
+            "index": 131
+        },
+        "133": {
+            "character": "න්‍රී",
+            "index": 132
+        },
+        "134": {
+            "character": "ප",
+            "index": 133
+        },
+        "135": {
+            "character": "පා",
+            "index": 134
+        },
+        "136": {
+            "character": "පැ",
+            "index": 135
+        },
+        "137": {
+            "character": "පෑ",
+            "index": 136
+        },
+        "138": {
+            "character": "පි",
+            "index": 137
+        },
+        "139": {
+            "character": "පී",
+            "index": 138
+        },
+        "14": {
+            "character": "කැ",
+            "index": 13
+        },
+        "140": {
+            "character": "පු",
+            "index": 139
+        },
+        "141": {
+            "character": "පූ",
+            "index": 140
+        },
+        "142": {
+            "character": "ප්",
+            "index": 141
+        },
+        "143": {
+            "character": "ප්‍රෝ",
+            "index": 142
+        },
+        "144": {
+            "character": "පෝ",
+            "index": 143
+        },
+        "145": {
+            "character": "ප්‍ර",
+            "index": 144
+        },
+        "146": {
+            "character": "ප්‍රා",
+            "index": 145
+        },
+        "147": {
+            "character": "ප්‍රි",
+            "index": 146
+        },
+        "148": {
+            "character": "ප්‍රී",
+            "index": 147
+        },
+        "149": {
+            "character": "බ",
+            "index": 148
+        },
+        "15": {
+            "character": "කෑ",
+            "index": 14
+        },
+        "150": {
+            "character": "බා",
+            "index": 149
+        },
+        "151": {
+            "character": "බැ",
+            "index": 150
+        },
+        "152": {
+            "character": "බෑ",
+            "index": 151
+        },
+        "153": {
+            "character": "බි",
+            "index": 152
+        },
+        "154": {
+            "character": "බී",
+            "index": 153
+        },
+        "155": {
+            "character": "බු",
+            "index": 154
+        },
+        "156": {
+            "character": "බූ",
+            "index": 155
+        },
+        "157": {
+            "character": "බ්",
+            "index": 156
+        },
+        "158": {
+            "character": "බ්‍රෝ",
+            "index": 157
+        },
+        "159": {
+            "character": "බ්‍ර",
+            "index": 158
+        },
+        "16": {
+            "character": "කි",
+            "index": 15
+        },
+        "160": {
+            "character": "බ්‍රා",
+            "index": 159
+        },
+        "161": {
+            "character": "බ්‍රි",
+            "index": 160
+        },
+        "162": {
+            "character": "බ්‍රී",
+            "index": 161
+        },
+        "163": {
+            "character": "බ්‍රෝ",
+            "index": 162
+        },
+        "164": {
+            "character": "ම",
+            "index": 163
+        },
+        "165": {
+            "character": "මා",
+            "index": 164
+        },
+        "166": {
+            "character": "මැ",
+            "index": 165
+        },
+        "167": {
+            "character": "මෑ",
+            "index": 166
+        },
+        "168": {
+            "character": "මි",
+            "index": 167
+        },
+        "169": {
+            "character": "මී",
+            "index": 168
+        },
+        "17": {
+            "character": "කී",
+            "index": 16
+        },
+        "170": {
+            "character": "මු",
+            "index": 169
+        },
+        "171": {
+            "character": "මූ",
+            "index": 170
+        },
+        "172": {
+            "character": "ම්",
+            "index": 171
+        },
+        "173": {
+            "character": "මෝ",
+            "index": 172
+        },
+        "174": {
+            "character": "ම්‍ර",
+            "index": 173
+        },
+        "175": {
+            "character": "ම්‍රා",
+            "index": 174
+        },
+        "176": {
+            "character": "ම්‍රි",
+            "index": 175
+        },
+        "177": {
+            "character": "ම්‍රී",
+            "index": 176
+        },
+        "178": {
+            "character": "ම්‍රෝ",
+            "index": 177
+        },
+        "179": {
+            "character": "ය",
+            "index": 178
+        },
+        "18": {
+            "character": "කු",
+            "index": 17
+        },
+        "180": {
+            "character": "යා",
+            "index": 179
+        },
+        "181": {
+            "character": "යැ",
+            "index": 180
+        },
+        "182": {
+            "character": "යෑ",
+            "index": 181
+        },
+        "183": {
+            "character": "යි",
+            "index": 182
+        },
+        "184": {
+            "character": "යී",
+            "index": 183
+        },
+        "185": {
+            "character": "යු",
+            "index": 184
+        },
+        "186": {
+            "character": "යූ",
+            "index": 185
+        },
+        "187": {
+            "character": "ෝ",
+            "index": 186
+        },
+        "188": {
+            "character": "ය්",
+            "index": 187
+        },
+        "189": {
+            "character": "hda",
+            "index": 188
+        },
+        "19": {
+            "character": "කූ",
+            "index": 18
+        },
+        "190": {
+            "character": "ර",
+            "index": 189
+        },
+        "191": {
+            "character": "රා",
+            "index": 190
+        },
+        "192": {
+            "character": "රැ",
+            "index": 191
+        },
+        "193": {
+            "character": "රැ",
+            "index": 192
+        },
+        "194": {
+            "character": "රු",
+            "index": 193
+        },
+        "195": {
+            "character": "රූ",
+            "index": 194
+        },
+        "196": {
+            "character": "රි",
+            "index": 195
+        },
+        "197": {
+            "character": "රී",
+            "index": 196
+        },
+        "198": {
+            "character": "ල",
+            "index": 197
+        },
+        "199": {
+            "character": "ලා",
+            "index": 198
+        },
+        "2": {
+            "character": "ආ",
+            "index": 1
+        },
+        "20": {
+            "character": "ක්",
+            "index": 19
+        },
+        "200": {
+            "character": "ලැ",
+            "index": 199
+        },
+        "201": {
+            "character": "ලෑ",
+            "index": 200
+        },
+        "202": {
+            "character": "ලි",
+            "index": 201
+        },
+        "203": {
+            "character": "ලී",
+            "index": 202
+        },
+        "204": {
+            "character": "ලු",
+            "index": 203
+        },
+        "205": {
+            "character": "ලූ",
+            "index": 204
+        },
+        "206": {
+            "character": "ල්",
+            "index": 205
+        },
+        "207": {
+            "character": ",da",
+            "index": 206
+        },
+        "208": {
+            "character": "ව",
+            "index": 207
+        },
+        "209": {
+            "character": "වා",
+            "index": 208
+        },
+        "21": {
+            "character": "කෝ",
+            "index": 20
+        },
+        "210": {
+            "character": "වැ",
+            "index": 209
+        },
+        "211": {
+            "character": "වෑ",
+            "index": 210
+        },
+        "212": {
+            "character": "වි",
+            "index": 211
+        },
+        "213": {
+            "character": "වී",
+            "index": 212
+        },
+        "214": {
+            "character": "වු",
+            "index": 213
+        },
+        "215": {
+            "character": "වූ",
+            "index": 214
+        },
+        "216": {
+            "character": "ව්",
+            "index": 215
+        },
+        "217": {
+            "character": "jda",
+            "index": 216
+        },
+        "218": {
+            "character": "ව්‍ර",
+            "index": 217
+        },
+        "219": {
+            "character": "ව්‍රා",
+            "index": 218
+        },
+        "22": {
+            "character": "ක්‍ර",
+            "index": 21
+        },
+        "220": {
+            "character": "ව්‍රැ",
+            "index": 219
+        },
+        "221": {
+            "character": "ව්‍රෑ",
+            "index": 220
+        },
+        "222": {
+            "character": "j%da",
+            "index": 221
+        },
+        "223": {
+            "character": "ශ",
+            "index": 222
+        },
+        "224": {
+            "character": "ශා",
+            "index": 223
+        },
+        "225": {
+            "character": "ශැ",
+            "index": 224
+        },
+        "226": {
+            "character": "ශෑ",
+            "index": 225
+        },
+        "227": {
+            "character": "ශි",
+            "index": 226
+        },
+        "228": {
+            "character": "ශී",
+            "index": 227
+        },
+        "229": {
+            "character": "ශු",
+            "index": 228
+        },
+        "23": {
+            "character": "ක්‍රි",
+            "index": 22
+        },
+        "230": {
+            "character": "ශූ",
+            "index": 229
+        },
+        "231": {
+            "character": "ශ්",
+            "index": 230
+        },
+        "232": {
+            "character": "Yda",
+            "index": 231
+        },
+        "233": {
+            "character": "ශ්‍ර",
+            "index": 232
+        },
+        "234": {
+            "character": "ශ්‍රා",
+            "index": 233
+        },
+        "235": {
+            "character": "ශ්‍රැ",
+            "index": 234
+        },
+        "236": {
+            "character": "ශ්‍රෑ",
+            "index": 235
+        },
+        "237": {
+            "character": "ශ්‍රි",
+            "index": 236
+        },
+        "238": {
+            "character": "ශ්‍රී",
+            "index": 237
+        },
+        "239": {
+            "character": "Y%da",
+            "index": 238
+        },
+        "24": {
+            "character": "ක්‍රී",
+            "index": 23
+        },
+        "240": {
+            "character": "ෂ",
+            "index": 239
+        },
+        "241": {
+            "character": "ෂා",
+            "index": 240
+        },
+        "242": {
+            "character": "ෂැ",
+            "index": 241
+        },
+        "243": {
+            "character": "ෂෑ",
+            "index": 242
+        },
+        "244": {
+            "character": "ෂි",
+            "index": 243
+        },
+        "245": {
+            "character": "ෂී",
+            "index": 244
+        },
+        "246": {
+            "character": "ෂු",
+            "index": 245
+        },
+        "247": {
+            "character": "ෂූ",
+            "index": 246
+        },
+        "248": {
+            "character": "ෂ්",
+            "index": 247
+        },
+        "249": {
+            "character": "Ida",
+            "index": 248
+        },
+        "25": {
+            "character": "ග",
+            "index": 24
+        },
+        "250": {
+            "character": "ස",
+            "index": 249
+        },
+        "251": {
+            "character": "සා",
+            "index": 250
+        },
+        "252": {
+            "character": "සැ",
+            "index": 251
+        },
+        "253": {
+            "character": "සෑ",
+            "index": 252
+        },
+        "254": {
+            "character": "සි",
+            "index": 253
+        },
+        "255": {
+            "character": "සී",
+            "index": 254
+        },
+        "256": {
+            "character": "සු",
+            "index": 255
+        },
+        "257": {
+            "character": "සූ",
+            "index": 256
+        },
+        "258": {
+            "character": "ida",
+            "index": 257
+        },
+        "259": {
+            "character": "ස්‍ර",
+            "index": 258
+        },
+        "26": {
+            "character": "ගා",
+            "index": 25
+        },
+        "260": {
+            "character": "ස්‍රා",
+            "index": 259
+        },
+        "261": {
+            "character": "ස්‍රි",
+            "index": 260
+        },
+        "262": {
+            "character": "ස්‍රී",
+            "index": 261
+        },
+        "263": {
+            "character": "ස්",
+            "index": 262
+        },
+        "264": {
+            "character": "හ",
+            "index": 263
+        },
+        "265": {
+            "character": "හා",
+            "index": 264
+        },
+        "266": {
+            "character": "හැ",
+            "index": 265
+        },
+        "267": {
+            "character": "හෑ",
+            "index": 266
+        },
+        "268": {
+            "character": "හි",
+            "index": 267
+        },
+        "269": {
+            "character": "හී",
+            "index": 268
+        },
+        "27": {
+            "character": "ගැ",
+            "index": 26
+        },
+        "270": {
+            "character": "හු",
+            "index": 269
+        },
+        "271": {
+            "character": "හූ",
+            "index": 270
+        },
+        "272": {
+            "character": "හ්",
+            "index": 271
+        },
+        "273": {
+            "character": "yda",
+            "index": 272
+        },
+        "274": {
+            "character": "ළ",
+            "index": 273
+        },
+        "275": {
+            "character": "ළා",
+            "index": 274
+        },
+        "276": {
+            "character": "ළැ",
+            "index": 275
+        },
+        "277": {
+            "character": "ළෑ",
+            "index": 276
+        },
+        "278": {
+            "character": "ළි",
+            "index": 277
+        },
+        "279": {
+            "character": "ළී",
+            "index": 278
+        },
+        "28": {
+            "character": "ගෑ",
+            "index": 27
+        },
+        "280": {
+            "character": "ළූ",
+            "index": 279
+        },
+        "281": {
+            "character": "ළූ",
+            "index": 280
+        },
+        "282": {
+            "character": "ෆ",
+            "index": 281
+        },
+        "283": {
+            "character": "ෆා",
+            "index": 282
+        },
+        "284": {
+            "character": "ෆැ",
+            "index": 283
+        },
+        "285": {
+            "character": "ෆෑ",
+            "index": 284
+        },
+        "286": {
+            "character": "ෆි",
+            "index": 285
+        },
+        "287": {
+            "character": "ෆී",
+            "index": 286
+        },
+        "288": {
+            "character": "ෆූ",
+            "index": 287
+        },
+        "289": {
+            "character": "ෆූ",
+            "index": 288
+        },
+        "29": {
+            "character": "ගි",
+            "index": 28
+        },
+        "290": {
+            "character": "ෆ්‍ර",
+            "index": 289
+        },
+        "291": {
+            "character": "ෆ්‍රි",
+            "index": 290
+        },
+        "292": {
+            "character": "ෆ්‍රී",
+            "index": 291
+        },
+        "293": {
+            "character": "ෆ්‍රැ",
+            "index": 292
+        },
+        "294": {
+            "character": "ෆ්‍රෑ",
+            "index": 293
+        },
+        "295": {
+            "character": "ෆ්",
+            "index": 294
+        },
+        "296": {
+            "character": "*da",
+            "index": 295
+        },
+        "297": {
+            "character": "ක්‍රා",
+            "index": 296
+        },
+        "298": {
+            "character": "ක්‍රැ",
+            "index": 297
+        },
+        "299": {
+            "character": "ක්‍රෑ",
+            "index": 298
+        },
+        "3": {
+            "character": "ඇ",
+            "index": 2
+        },
+        "30": {
+            "character": "ගී",
+            "index": 29
+        },
+        "300": {
+            "character": "l%da",
+            "index": 299
+        },
+        "301": {
+            "character": ".%da",
+            "index": 300
+        },
+        "302": {
+            "character": "ඛ",
+            "index": 301
+        },
+        "303": {
+            "character": "ඛා",
+            "index": 302
+        },
+        "304": {
+            "character": "ඛි",
+            "index": 303
+        },
+        "305": {
+            "character": "ඛී",
+            "index": 304
+        },
+        "306": {
+            "character": "ඛ්",
+            "index": 305
+        },
+        "307": {
+            "character": "ඝ",
+            "index": 306
+        },
+        "308": {
+            "character": "ඝා",
+            "index": 307
+        },
+        "309": {
+            "character": "ඝැ",
+            "index": 308
+        },
+        "31": {
+            "character": "ගු",
+            "index": 30
+        },
+        "310": {
+            "character": "ඝෑ",
+            "index": 309
+        },
+        "311": {
+            "character": "ඝි",
+            "index": 310
+        },
+        "312": {
+            "character": "ඝී",
+            "index": 311
+        },
+        "313": {
+            "character": "ඝු",
+            "index": 312
+        },
+        "314": {
+            "character": "ඝූ",
+            "index": 313
+        },
+        "315": {
+            "character": ">da",
+            "index": 314
+        },
+        "316": {
+            "character": "ඝ්",
+            "index": 315
+        },
+        "317": {
+            "character": "ඝ්‍ර",
+            "index": 316
+        },
+        "318": {
+            "character": "ඝ්‍රා",
+            "index": 317
+        },
+        "319": {
+            "character": "ඝ්‍රි",
+            "index": 318
+        },
+        "32": {
+            "character": "ගූ",
+            "index": 31
+        },
+        "320": {
+            "character": "ඝ්‍රී",
+            "index": 319
+        },
+        "321": {
+            "character": "ඳ",
+            "index": 320
+        },
+        "322": {
+            "character": "ඳා",
+            "index": 321
+        },
+        "323": {
+            "character": "ඳැ",
+            "index": 322
+        },
+        "324": {
+            "character": "ෑ",
+            "index": 323
+        },
+        "325": {
+            "character": "ඳෑ",
+            "index": 324
+        },
+        "326": {
+            "character": "ඳි",
+            "index": 325
+        },
+        "327": {
+            "character": "ඳී",
+            "index": 326
+        },
+        "328": {
+            "character": "ඳු",
+            "index": 327
+        },
+        "329": {
+            "character": "ඳූ",
+            "index": 328
+        },
+        "33": {
+            "character": "ග්",
+            "index": 32
+        },
+        "330": {
+            "character": "|da ",
+            "index": 329
+        },
+        "331": {
+            "character": " ඳ්",
+            "index": 330
+        },
+        "332": {
+            "character": "ඟ",
+            "index": 331
+        },
+        "333": {
+            "character": "ඟා",
+            "index": 332
+        },
+        "334": {
+            "character": "ඟැ",
+            "index": 333
+        },
+        "335": {
+            "character": " ඟෑ",
+            "index": 334
+        },
+        "336": {
+            "character": " ඟි",
+            "index": 335
+        },
+        "337": {
+            "character": "ඟී",
+            "index": 336
+        },
+        "338": {
+            "character": " ඟු",
+            "index": 337
+        },
+        "339": {
+            "character": " ඟූ",
+            "index": 338
+        },
+        "34": {
+            "character": "ගෝ",
+            "index": 33
+        },
+        "340": {
+            "character": "Õda",
+            "index": 339
+        },
+        "341": {
+            "character": "ඟ්",
+            "index": 340
+        },
+        "342": {
+            "character": "ඬ",
+            "index": 341
+        },
+        "343": {
+            "character": "ැ",
+            "index": 342
+        },
+        "344": {
+            "character": "ඬා",
+            "index": 343
+        },
+        "345": {
+            "character": " ඬැ",
+            "index": 344
+        },
+        "346": {
+            "character": "ඬෑ",
+            "index": 345
+        },
+        "347": {
+            "character": " ඬි",
+            "index": 346
+        },
+        "348": {
+            "character": "ඬී",
+            "index": 347
+        },
+        "349": {
+            "character": " ඬු",
+            "index": 348
+        },
+        "35": {
+            "character": "ග්‍ර",
+            "index": 34
+        },
+        "350": {
+            "character": "ඬූ",
+            "index": 349
+        },
+        "351": {
+            "character": "ඬda ",
+            "index": 350
+        },
+        "352": {
+            "character": " ඬ්",
+            "index": 351
+        },
+        "353": {
+            "character": "ඹ",
+            "index": 352
+        },
+        "354": {
+            "character": "ඹා",
+            "index": 353
+        },
+        "355": {
+            "character": " ඹැ",
+            "index": 354
+        },
+        "356": {
+            "character": " ඹෑ",
+            "index": 355
+        },
+        "357": {
+            "character": " ඹි",
+            "index": 356
+        },
+        "358": {
+            "character": "ඹී",
+            "index": 357
+        },
+        "359": {
+            "character": " ඹු",
+            "index": 358
+        },
+        "36": {
+            "character": "ග්‍රි",
+            "index": 35
+        },
+        "360": {
+            "character": "ඹූ",
+            "index": 359
+        },
+        "361": {
+            "character": "Uda",
+            "index": 360
+        },
+        "362": {
+            "character": "ඹ්",
+            "index": 361
+        },
+        "363": {
+            "character": "භ",
+            "index": 362
+        },
+        "364": {
+            "character": "භා",
+            "index": 363
+        },
+        "365": {
+            "character": "භැ",
+            "index": 364
+        },
+        "366": {
+            "character": "භෑ",
+            "index": 365
+        },
+        "367": {
+            "character": "භි",
+            "index": 366
+        },
+        "368": {
+            "character": "භී",
+            "index": 367
+        },
+        "369": {
+            "character": "භු",
+            "index": 368
+        },
+        "37": {
+            "character": "ග්‍රී",
+            "index": 36
+        },
+        "370": {
+            "character": "භූ",
+            "index": 369
+        },
+        "371": {
+            "character": "Nda",
+            "index": 370
+        },
+        "372": {
+            "character": "භ්",
+            "index": 371
+        },
+        "373": {
+            "character": "ධ",
+            "index": 372
+        },
+        "374": {
+            "character": "ධා",
+            "index": 373
+        },
+        "375": {
+            "character": "ධැ",
+            "index": 374
+        },
+        "376": {
+            "character": "ධෑ",
+            "index": 375
+        },
+        "377": {
+            "character": ",ධි",
+            "index": 376
+        },
+        "378": {
+            "character": ",ධී",
+            "index": 377
+        },
+        "379": {
+            "character": ",ධු",
+            "index": 378
+        },
+        "38": {
+            "character": "ච",
+            "index": 37
+        },
+        "380": {
+            "character": ",ධූ",
+            "index": 379
+        },
+        "381": {
+            "character": "ධෝ",
+            "index": 380
+        },
+        "382": {
+            "character": "ධ්",
+            "index": 381
+        },
+        "383": {
+            "character": "ඨ",
+            "index": 382
+        },
+        "384": {
+            "character": "ඨා",
+            "index": 383
+        },
+        "385": {
+            "character": "ඨැ",
+            "index": 384
+        },
+        "386": {
+            "character": "ඨි",
+            "index": 385
+        },
+        "387": {
+            "character": "ඨී",
+            "index": 386
+        },
+        "388": {
+            "character": "ඨු",
+            "index": 387
+        },
+        "389": {
+            "character": "ඨූ",
+            "index": 388
+        },
+        "39": {
+            "character": "චා",
+            "index": 38
+        },
+        "390": {
+            "character": "ඨ්",
+            "index": 389
+        },
+        "391": {
+            "character": "ඪ",
+            "index": 390
+        },
+        "392": {
+            "character": "ඪා",
+            "index": 391
+        },
+        "393": {
+            "character": "ඪි",
+            "index": 392
+        },
+        "394": {
+            "character": "Vda",
+            "index": 393
+        },
+        "395": {
+            "character": "ඵ",
+            "index": 394
+        },
+        "396": {
+            "character": "ඵා",
+            "index": 395
+        },
+        "397": {
+            "character": "ඵු",
+            "index": 396
+        },
+        "398": {
+            "character": "ඵි",
+            "index": 397
+        },
+        "399": {
+            "character": "Mda",
+            "index": 398
+        },
+        "4": {
+            "character": "ඈ",
+            "index": 3
+        },
+        "40": {
+            "character": "චැ",
+            "index": 39
+        },
+        "400": {
+            "character": "ඵ් ",
+            "index": 399
+        },
+        "401": {
+            "character": "ථ",
+            "index": 400
+        },
+        "402": {
+            "character": "ථා",
+            "index": 401
+        },
+        "403": {
+            "character": "ථැ",
+            "index": 402
+        },
+        "404": {
+            "character": "ථ්",
+            "index": 403
+        },
+        "405": {
+            "character": "ා",
+            "index": 404
+        },
+        "406": {
+            "character": "ෟ",
+            "index": 405
+        },
+        "407": {
+            "character": "ණැ",
+            "index": 406
+        },
+        "408": {
+            "character": "ණෑ",
+            "index": 407
+        },
+        "409": {
+            "character": "ෘ",
+            "index": 408
+        },
+        "41": {
+            "character": "චෑ",
+            "index": 40
+        },
+        "410": {
+            "character": "ණී",
+            "index": 409
+        },
+        "411": {
+            "character": "ණු",
+            "index": 410
+        },
+        "412": {
+            "character": "ණූ",
+            "index": 411
+        },
+        "413": {
+            "character": "Kda",
+            "index": 412
+        },
+        "414": {
+            "character": "ණ්",
+            "index": 413
+        },
+        "415": {
+            "character": "ඥ",
+            "index": 414
+        },
+        "416": {
+            "character": "ඥා",
+            "index": 415
+        },
+        "417": {
+            "character": "{da",
+            "index": 416
+        },
+        "418": {
+            "character": "ඤ",
+            "index": 417
+        },
+        "419": {
+            "character": "ඤා",
+            "index": 418
+        },
+        "42": {
+            "character": "චි",
+            "index": 41
+        },
+        "420": {
+            "character": "ඤු",
+            "index": 419
+        },
+        "421": {
+            "character": "[da",
+            "index": 420
+        },
+        "422": {
+            "character": "ඤ්",
+            "index": 421
+        },
+        "423": {
+            "character": "ඣ",
+            "index": 422
+        },
+        "424": {
+            "character": "ඣා",
+            "index": 423
+        },
+        "425": {
+            "character": "ඣු",
+            "index": 424
+        },
+        "426": {
+            "character": "COda",
+            "index": 425
+        },
+        "427": {
+            "character": "ඣ්",
+            "index": 426
+        },
+        "428": {
+            "character": "ඦ",
+            "index": 427
+        },
+        "429": {
+            "character": "ඦා",
+            "index": 428
+        },
+        "43": {
+            "character": "චී",
+            "index": 42
+        },
+        "430": {
+            "character": "ඦැ",
+            "index": 429
+        },
+        "431": {
+            "character": "ඦෑ",
+            "index": 430
+        },
+        "432": {
+            "character": "ඦි",
+            "index": 431
+        },
+        "433": {
+            "character": "ඦු",
+            "index": 432
+        },
+        "434": {
+            "character": "ඦූ",
+            "index": 433
+        },
+        "435": {
+            "character": "ඦෝ",
+            "index": 434
+        },
+        "436": {
+            "character": "ඦ්",
+            "index": 435
+        },
+        "437": {
+            "character": "ඡ",
+            "index": 436
+        },
+        "438": {
+            "character": "ඡා",
+            "index": 437
+        },
+        "439": {
+            "character": "ඡැ",
+            "index": 438
+        },
+        "44": {
+            "character": "චු",
+            "index": 43
+        },
+        "440": {
+            "character": "ඡෑ",
+            "index": 439
+        },
+        "441": {
+            "character": "ඡි",
+            "index": 440
+        },
+        "442": {
+            "character": "ඡේ",
+            "index": 441
+        },
+        "443": {
+            "character": "තැ",
+            "index": 442
+        },
+        "444": {
+            "character": "තෑ",
+            "index": 443
+        },
+        "445": {
+            "character": "ත්‍රැ",
+            "index": 444
+        },
+        "446": {
+            "character": "ත්‍රෑ",
+            "index": 445
+        },
+        "447": {
+            "character": ";%da",
+            "index": 446
+        },
+        "448": {
+            "character": "ළු",
+            "index": 447
+        },
+        "449": {
+            "character": "ෲ",
+            "index": 448
+        },
+        "45": {
+            "character": "චූ",
+            "index": 44
+        },
+        "450": {
+            "character": "HQ",
+            "index": 449
+        },
+        "451": {
+            "character": "ff",
+            "index": 450
+        },
+        "452": {
+            "character": "f",
+            "index": 451
+        },
+        "453": {
+            "character": "H",
+            "index": 452
+        },
+        "454": {
+            "character": "Hq",
+            "index": 453
+        },
+        "46": {
+            "character": "ච්",
+            "index": 45
+        },
+        "47": {
+            "character": "චෝ",
+            "index": 46
+        },
+        "48": {
+            "character": "ච්‍ර",
+            "index": 47
+        },
+        "49": {
+            "character": "ච්‍ර්",
+            "index": 48
+        },
+        "5": {
+            "character": "ඉ",
+            "index": 4
+        },
+        "50": {
+            "character": "ච්‍රී",
+            "index": 49
+        },
+        "51": {
+            "character": "ජ",
+            "index": 50
+        },
+        "52": {
+            "character": "ජා",
+            "index": 51
+        },
+        "53": {
+            "character": "ජැ",
+            "index": 52
+        },
+        "54": {
+            "character": "ජෑ",
+            "index": 53
+        },
+        "55": {
+            "character": "ජි",
+            "index": 54
+        },
+        "56": {
+            "character": "ජී",
+            "index": 55
+        },
+        "57": {
+            "character": "ජු",
+            "index": 56
+        },
+        "58": {
+            "character": "ජූ",
+            "index": 57
+        },
+        "59": {
+            "character": "ජ්",
+            "index": 58
+        },
+        "6": {
+            "character": "ඊ",
+            "index": 5
+        },
+        "60": {
+            "character": "ජෝ",
+            "index": 59
+        },
+        "61": {
+            "character": "ජ්‍ර",
+            "index": 60
+        },
+        "62": {
+            "character": "ජ්‍රි",
+            "index": 61
+        },
+        "63": {
+            "character": "ජ්‍රී",
+            "index": 62
+        },
+        "64": {
+            "character": "ට",
+            "index": 63
+        },
+        "65": {
+            "character": "ටා",
+            "index": 64
+        },
+        "66": {
+            "character": "ටැ",
+            "index": 65
+        },
+        "67": {
+            "character": "ටෑ",
+            "index": 66
+        },
+        "68": {
+            "character": "ටි",
+            "index": 67
+        },
+        "69": {
+            "character": "ටී",
+            "index": 68
+        },
+        "7": {
+            "character": "උ",
+            "index": 6
+        },
+        "70": {
+            "character": "ටු",
+            "index": 69
+        },
+        "71": {
+            "character": "ටූ",
+            "index": 70
+        },
+        "72": {
+            "character": "ට්",
+            "index": 71
+        },
+        "73": {
+            "character": "ටෝ",
+            "index": 72
+        },
+        "74": {
+            "character": "ට්‍ර",
+            "index": 73
+        },
+        "75": {
+            "character": "ට්‍ර්",
+            "index": 74
+        },
+        "76": {
+            "character": "ට්‍රි",
+            "index": 75
+        },
+        "77": {
+            "character": "ඩ",
+            "index": 76
+        },
+        "78": {
+            "character": "ඩා",
+            "index": 77
+        },
+        "79": {
+            "character": "ඩැ",
+            "index": 78
+        },
+        "8": {
+            "character": "එ",
+            "index": 7
+        },
+        "80": {
+            "character": "ඩෑ",
+            "index": 79
+        },
+        "81": {
+            "character": "ඩි",
+            "index": 80
+        },
+        "82": {
+            "character": "ඩී",
+            "index": 81
+        },
+        "83": {
+            "character": "ඩු",
+            "index": 82
+        },
+        "84": {
+            "character": "ඩූ",
+            "index": 83
+        },
+        "85": {
+            "character": "ඩ්",
+            "index": 84
+        },
+        "86": {
+            "character": "ඩෝ",
+            "index": 85
+        },
+        "87": {
+            "character": "ඩ්‍ර",
+            "index": 86
+        },
+        "88": {
+            "character": "ඩ්‍ර්",
+            "index": 87
+        },
+        "89": {
+            "character": "ඩ්‍රි",
+            "index": 88
+        },
+        "9": {
+            "character": "ඒ",
+            "index": 8
+        },
+        "90": {
+            "character": "ණ",
+            "index": 89
+        },
+        "91": {
+            "character": "ණා",
+            "index": 90
+        },
+        "92": {
+            "character": "ණි",
+            "index": 91
+        },
+        "93": {
+            "character": "ත",
+            "index": 92
+        },
+        "94": {
+            "character": "තා",
+            "index": 93
+        },
+        "95": {
+            "character": "ති",
+            "index": 94
+        },
+        "96": {
+            "character": "තී",
+            "index": 95
+        },
+        "97": {
+            "character": "තු",
+            "index": 96
+        },
+        "98": {
+            "character": "තූ",
+            "index": 97
+        },
+        "99": {
+            "character": "ත්",
+            "index": 98
+        }
+    },
+    "test": {
+        "1": {
+            "character": "අ",
+            "index": 0
+        },
+        "10": {
+            "character": "ඔ",
+            "index": 9
+        },
+        "100": {
+            "character": "තෝ",
+            "index": 99
+        },
+        "101": {
+            "character": "ත්‍ර",
+            "index": 100
+        },
+        "102": {
+            "character": "ත්‍රා",
+            "index": 101
+        },
+        "103": {
+            "character": "ත්‍රි",
+            "index": 102
+        },
+        "104": {
+            "character": "ත්‍රී",
+            "index": 103
+        },
+        "105": {
+            "character": "ද ",
+            "index": 104
+        },
+        "106": {
+            "character": "දා",
+            "index": 105
+        },
+        "107": {
+            "character": "දැ",
+            "index": 106
+        },
+        "108": {
+            "character": "දෑ",
+            "index": 107
+        },
+        "109": {
+            "character": "දි",
+            "index": 108
+        },
+        "11": {
+            "character": "ඕ",
+            "index": 10
+        },
+        "110": {
+            "character": "දී",
+            "index": 109
+        },
+        "111": {
+            "character": "දු",
+            "index": 110
+        },
+        "112": {
+            "character": "දූ",
+            "index": 111
+        },
+        "113": {
+            "character": "ද්",
+            "index": 112
+        },
+        "114": {
+            "character": "දෝ",
+            "index": 113
+        },
+        "115": {
+            "character": "ද්‍ර",
+            "index": 114
+        },
+        "116": {
+            "character": "ද්‍රෝ",
+            "index": 115
+        },
+        "117": {
+            "character": "ද්‍රා",
+            "index": 116
+        },
+        "118": {
+            "character": "ද්‍රි",
+            "index": 117
+        },
+        "119": {
+            "character": "ද්‍රී",
+            "index": 118
+        },
+        "12": {
+            "character": "ක",
+            "index": 11
+        },
+        "120": {
+            "character": "න",
+            "index": 119
+        },
+        "121": {
+            "character": "නා",
+            "index": 120
+        },
+        "122": {
+            "character": "නැ",
+            "index": 121
+        },
+        "123": {
+            "character": "නෑ",
+            "index": 122
+        },
+        "124": {
+            "character": "නි",
+            "index": 123
+        },
+        "125": {
+            "character": "නී",
+            "index": 124
+        },
+        "126": {
+            "character": "නු",
+            "index": 125
+        },
+        "127": {
+            "character": "නූ",
+            "index": 126
+        },
+        "128": {
+            "character": "න්",
+            "index": 127
+        },
+        "129": {
+            "character": "නෝ",
+            "index": 128
+        },
+        "13": {
+            "character": "කා",
+            "index": 12
+        },
+        "130": {
+            "character": "න්‍ර",
+            "index": 129
+        },
+        "131": {
+            "character": "න්‍රා",
+            "index": 130
+        },
+        "132": {
+            "character": "න්‍රි",
+            "index": 131
+        },
+        "133": {
+            "character": "න්‍රී",
+            "index": 132
+        },
+        "134": {
+            "character": "ප",
+            "index": 133
+        },
+        "135": {
+            "character": "පා",
+            "index": 134
+        },
+        "136": {
+            "character": "පැ",
+            "index": 135
+        },
+        "137": {
+            "character": "පෑ",
+            "index": 136
+        },
+        "138": {
+            "character": "පි",
+            "index": 137
+        },
+        "139": {
+            "character": "පී",
+            "index": 138
+        },
+        "14": {
+            "character": "කැ",
+            "index": 13
+        },
+        "140": {
+            "character": "පු",
+            "index": 139
+        },
+        "141": {
+            "character": "පූ",
+            "index": 140
+        },
+        "142": {
+            "character": "ප්",
+            "index": 141
+        },
+        "143": {
+            "character": "ප්‍රෝ",
+            "index": 142
+        },
+        "144": {
+            "character": "පෝ",
+            "index": 143
+        },
+        "145": {
+            "character": "ප්‍ර",
+            "index": 144
+        },
+        "146": {
+            "character": "ප්‍රා",
+            "index": 145
+        },
+        "147": {
+            "character": "ප්‍රි",
+            "index": 146
+        },
+        "148": {
+            "character": "ප්‍රී",
+            "index": 147
+        },
+        "149": {
+            "character": "බ",
+            "index": 148
+        },
+        "15": {
+            "character": "කෑ",
+            "index": 14
+        },
+        "150": {
+            "character": "බා",
+            "index": 149
+        },
+        "151": {
+            "character": "බැ",
+            "index": 150
+        },
+        "152": {
+            "character": "බෑ",
+            "index": 151
+        },
+        "153": {
+            "character": "බි",
+            "index": 152
+        },
+        "154": {
+            "character": "බී",
+            "index": 153
+        },
+        "155": {
+            "character": "බු",
+            "index": 154
+        },
+        "156": {
+            "character": "බූ",
+            "index": 155
+        },
+        "157": {
+            "character": "බ්",
+            "index": 156
+        },
+        "158": {
+            "character": "බ්‍රෝ",
+            "index": 157
+        },
+        "159": {
+            "character": "බ්‍ර",
+            "index": 158
+        },
+        "16": {
+            "character": "කි",
+            "index": 15
+        },
+        "160": {
+            "character": "බ්‍රා",
+            "index": 159
+        },
+        "161": {
+            "character": "බ්‍රි",
+            "index": 160
+        },
+        "162": {
+            "character": "බ්‍රී",
+            "index": 161
+        },
+        "163": {
+            "character": "බ්‍රෝ",
+            "index": 162
+        },
+        "164": {
+            "character": "ම",
+            "index": 163
+        },
+        "165": {
+            "character": "මා",
+            "index": 164
+        },
+        "166": {
+            "character": "මැ",
+            "index": 165
+        },
+        "167": {
+            "character": "මෑ",
+            "index": 166
+        },
+        "168": {
+            "character": "මි",
+            "index": 167
+        },
+        "169": {
+            "character": "මී",
+            "index": 168
+        },
+        "17": {
+            "character": "කී",
+            "index": 16
+        },
+        "170": {
+            "character": "මු",
+            "index": 169
+        },
+        "171": {
+            "character": "මූ",
+            "index": 170
+        },
+        "172": {
+            "character": "ම්",
+            "index": 171
+        },
+        "173": {
+            "character": "මෝ",
+            "index": 172
+        },
+        "174": {
+            "character": "ම්‍ර",
+            "index": 173
+        },
+        "175": {
+            "character": "ම්‍රා",
+            "index": 174
+        },
+        "176": {
+            "character": "ම්‍රි",
+            "index": 175
+        },
+        "177": {
+            "character": "ම්‍රී",
+            "index": 176
+        },
+        "178": {
+            "character": "ම්‍රෝ",
+            "index": 177
+        },
+        "179": {
+            "character": "ය",
+            "index": 178
+        },
+        "18": {
+            "character": "කු",
+            "index": 17
+        },
+        "180": {
+            "character": "යා",
+            "index": 179
+        },
+        "181": {
+            "character": "යැ",
+            "index": 180
+        },
+        "182": {
+            "character": "යෑ",
+            "index": 181
+        },
+        "183": {
+            "character": "යි",
+            "index": 182
+        },
+        "184": {
+            "character": "යී",
+            "index": 183
+        },
+        "185": {
+            "character": "යු",
+            "index": 184
+        },
+        "186": {
+            "character": "යූ",
+            "index": 185
+        },
+        "187": {
+            "character": "ෝ",
+            "index": 186
+        },
+        "188": {
+            "character": "ය්",
+            "index": 187
+        },
+        "189": {
+            "character": "hda",
+            "index": 188
+        },
+        "19": {
+            "character": "කූ",
+            "index": 18
+        },
+        "190": {
+            "character": "ර",
+            "index": 189
+        },
+        "191": {
+            "character": "රා",
+            "index": 190
+        },
+        "192": {
+            "character": "රැ",
+            "index": 191
+        },
+        "193": {
+            "character": "රැ",
+            "index": 192
+        },
+        "194": {
+            "character": "රු",
+            "index": 193
+        },
+        "195": {
+            "character": "රූ",
+            "index": 194
+        },
+        "196": {
+            "character": "රි",
+            "index": 195
+        },
+        "197": {
+            "character": "රී",
+            "index": 196
+        },
+        "198": {
+            "character": "ල",
+            "index": 197
+        },
+        "199": {
+            "character": "ලා",
+            "index": 198
+        },
+        "2": {
+            "character": "ආ",
+            "index": 1
+        },
+        "20": {
+            "character": "ක්",
+            "index": 19
+        },
+        "200": {
+            "character": "ලැ",
+            "index": 199
+        },
+        "201": {
+            "character": "ලෑ",
+            "index": 200
+        },
+        "202": {
+            "character": "ලි",
+            "index": 201
+        },
+        "203": {
+            "character": "ලී",
+            "index": 202
+        },
+        "204": {
+            "character": "ලු",
+            "index": 203
+        },
+        "205": {
+            "character": "ලූ",
+            "index": 204
+        },
+        "206": {
+            "character": "ල්",
+            "index": 205
+        },
+        "207": {
+            "character": ",da",
+            "index": 206
+        },
+        "208": {
+            "character": "ව",
+            "index": 207
+        },
+        "209": {
+            "character": "වා",
+            "index": 208
+        },
+        "21": {
+            "character": "කෝ",
+            "index": 20
+        },
+        "210": {
+            "character": "වැ",
+            "index": 209
+        },
+        "211": {
+            "character": "වෑ",
+            "index": 210
+        },
+        "212": {
+            "character": "වි",
+            "index": 211
+        },
+        "213": {
+            "character": "වී",
+            "index": 212
+        },
+        "214": {
+            "character": "වු",
+            "index": 213
+        },
+        "215": {
+            "character": "වූ",
+            "index": 214
+        },
+        "216": {
+            "character": "ව්",
+            "index": 215
+        },
+        "217": {
+            "character": "jda",
+            "index": 216
+        },
+        "218": {
+            "character": "ව්‍ර",
+            "index": 217
+        },
+        "219": {
+            "character": "ව්‍රා",
+            "index": 218
+        },
+        "22": {
+            "character": "ක්‍ර",
+            "index": 21
+        },
+        "220": {
+            "character": "ව්‍රැ",
+            "index": 219
+        },
+        "221": {
+            "character": "ව්‍රෑ",
+            "index": 220
+        },
+        "222": {
+            "character": "j%da",
+            "index": 221
+        },
+        "223": {
+            "character": "ශ",
+            "index": 222
+        },
+        "224": {
+            "character": "ශා",
+            "index": 223
+        },
+        "225": {
+            "character": "ශැ",
+            "index": 224
+        },
+        "226": {
+            "character": "ශෑ",
+            "index": 225
+        },
+        "227": {
+            "character": "ශි",
+            "index": 226
+        },
+        "228": {
+            "character": "ශී",
+            "index": 227
+        },
+        "229": {
+            "character": "ශු",
+            "index": 228
+        },
+        "23": {
+            "character": "ක්‍රි",
+            "index": 22
+        },
+        "230": {
+            "character": "ශූ",
+            "index": 229
+        },
+        "231": {
+            "character": "ශ්",
+            "index": 230
+        },
+        "232": {
+            "character": "Yda",
+            "index": 231
+        },
+        "233": {
+            "character": "ශ්‍ර",
+            "index": 232
+        },
+        "234": {
+            "character": "ශ්‍රා",
+            "index": 233
+        },
+        "235": {
+            "character": "ශ්‍රැ",
+            "index": 234
+        },
+        "236": {
+            "character": "ශ්‍රෑ",
+            "index": 235
+        },
+        "237": {
+            "character": "ශ්‍රි",
+            "index": 236
+        },
+        "238": {
+            "character": "ශ්‍රී",
+            "index": 237
+        },
+        "239": {
+            "character": "Y%da",
+            "index": 238
+        },
+        "24": {
+            "character": "ක්‍රී",
+            "index": 23
+        },
+        "240": {
+            "character": "ෂ",
+            "index": 239
+        },
+        "241": {
+            "character": "ෂා",
+            "index": 240
+        },
+        "242": {
+            "character": "ෂැ",
+            "index": 241
+        },
+        "243": {
+            "character": "ෂෑ",
+            "index": 242
+        },
+        "244": {
+            "character": "ෂි",
+            "index": 243
+        },
+        "245": {
+            "character": "ෂී",
+            "index": 244
+        },
+        "246": {
+            "character": "ෂු",
+            "index": 245
+        },
+        "247": {
+            "character": "ෂූ",
+            "index": 246
+        },
+        "248": {
+            "character": "ෂ්",
+            "index": 247
+        },
+        "249": {
+            "character": "Ida",
+            "index": 248
+        },
+        "25": {
+            "character": "ග",
+            "index": 24
+        },
+        "250": {
+            "character": "ස",
+            "index": 249
+        },
+        "251": {
+            "character": "සා",
+            "index": 250
+        },
+        "252": {
+            "character": "සැ",
+            "index": 251
+        },
+        "253": {
+            "character": "සෑ",
+            "index": 252
+        },
+        "254": {
+            "character": "සි",
+            "index": 253
+        },
+        "255": {
+            "character": "සී",
+            "index": 254
+        },
+        "256": {
+            "character": "සු",
+            "index": 255
+        },
+        "257": {
+            "character": "සූ",
+            "index": 256
+        },
+        "258": {
+            "character": "ida",
+            "index": 257
+        },
+        "259": {
+            "character": "ස්‍ර",
+            "index": 258
+        },
+        "26": {
+            "character": "ගා",
+            "index": 25
+        },
+        "260": {
+            "character": "ස්‍රා",
+            "index": 259
+        },
+        "261": {
+            "character": "ස්‍රි",
+            "index": 260
+        },
+        "262": {
+            "character": "ස්‍රී",
+            "index": 261
+        },
+        "263": {
+            "character": "ස්",
+            "index": 262
+        },
+        "264": {
+            "character": "හ",
+            "index": 263
+        },
+        "265": {
+            "character": "හා",
+            "index": 264
+        },
+        "266": {
+            "character": "හැ",
+            "index": 265
+        },
+        "267": {
+            "character": "හෑ",
+            "index": 266
+        },
+        "268": {
+            "character": "හි",
+            "index": 267
+        },
+        "269": {
+            "character": "හී",
+            "index": 268
+        },
+        "27": {
+            "character": "ගැ",
+            "index": 26
+        },
+        "270": {
+            "character": "හු",
+            "index": 269
+        },
+        "271": {
+            "character": "හූ",
+            "index": 270
+        },
+        "272": {
+            "character": "හ්",
+            "index": 271
+        },
+        "273": {
+            "character": "yda",
+            "index": 272
+        },
+        "274": {
+            "character": "ළ",
+            "index": 273
+        },
+        "275": {
+            "character": "ළා",
+            "index": 274
+        },
+        "276": {
+            "character": "ළැ",
+            "index": 275
+        },
+        "277": {
+            "character": "ළෑ",
+            "index": 276
+        },
+        "278": {
+            "character": "ළි",
+            "index": 277
+        },
+        "279": {
+            "character": "ළී",
+            "index": 278
+        },
+        "28": {
+            "character": "ගෑ",
+            "index": 27
+        },
+        "280": {
+            "character": "ළූ",
+            "index": 279
+        },
+        "281": {
+            "character": "ළූ",
+            "index": 280
+        },
+        "282": {
+            "character": "ෆ",
+            "index": 281
+        },
+        "283": {
+            "character": "ෆා",
+            "index": 282
+        },
+        "284": {
+            "character": "ෆැ",
+            "index": 283
+        },
+        "285": {
+            "character": "ෆෑ",
+            "index": 284
+        },
+        "286": {
+            "character": "ෆි",
+            "index": 285
+        },
+        "287": {
+            "character": "ෆී",
+            "index": 286
+        },
+        "288": {
+            "character": "ෆූ",
+            "index": 287
+        },
+        "289": {
+            "character": "ෆූ",
+            "index": 288
+        },
+        "29": {
+            "character": "ගි",
+            "index": 28
+        },
+        "290": {
+            "character": "ෆ්‍ර",
+            "index": 289
+        },
+        "291": {
+            "character": "ෆ්‍රි",
+            "index": 290
+        },
+        "292": {
+            "character": "ෆ්‍රී",
+            "index": 291
+        },
+        "293": {
+            "character": "ෆ්‍රැ",
+            "index": 292
+        },
+        "294": {
+            "character": "ෆ්‍රෑ",
+            "index": 293
+        },
+        "295": {
+            "character": "ෆ්",
+            "index": 294
+        },
+        "296": {
+            "character": "*da",
+            "index": 295
+        },
+        "297": {
+            "character": "ක්‍රා",
+            "index": 296
+        },
+        "298": {
+            "character": "ක්‍රැ",
+            "index": 297
+        },
+        "299": {
+            "character": "ක්‍රෑ",
+            "index": 298
+        },
+        "3": {
+            "character": "ඇ",
+            "index": 2
+        },
+        "30": {
+            "character": "ගී",
+            "index": 29
+        },
+        "300": {
+            "character": "l%da",
+            "index": 299
+        },
+        "301": {
+            "character": ".%da",
+            "index": 300
+        },
+        "302": {
+            "character": "ඛ",
+            "index": 301
+        },
+        "303": {
+            "character": "ඛා",
+            "index": 302
+        },
+        "304": {
+            "character": "ඛි",
+            "index": 303
+        },
+        "305": {
+            "character": "ඛී",
+            "index": 304
+        },
+        "306": {
+            "character": "ඛ්",
+            "index": 305
+        },
+        "307": {
+            "character": "ඝ",
+            "index": 306
+        },
+        "308": {
+            "character": "ඝා",
+            "index": 307
+        },
+        "309": {
+            "character": "ඝැ",
+            "index": 308
+        },
+        "31": {
+            "character": "ගු",
+            "index": 30
+        },
+        "310": {
+            "character": "ඝෑ",
+            "index": 309
+        },
+        "311": {
+            "character": "ඝි",
+            "index": 310
+        },
+        "312": {
+            "character": "ඝී",
+            "index": 311
+        },
+        "313": {
+            "character": "ඝු",
+            "index": 312
+        },
+        "314": {
+            "character": "ඝූ",
+            "index": 313
+        },
+        "315": {
+            "character": ">da",
+            "index": 314
+        },
+        "316": {
+            "character": "ඝ්",
+            "index": 315
+        },
+        "317": {
+            "character": "ඝ්‍ර",
+            "index": 316
+        },
+        "318": {
+            "character": "ඝ්‍රා",
+            "index": 317
+        },
+        "319": {
+            "character": "ඝ්‍රි",
+            "index": 318
+        },
+        "32": {
+            "character": "ගූ",
+            "index": 31
+        },
+        "320": {
+            "character": "ඝ්‍රී",
+            "index": 319
+        },
+        "321": {
+            "character": "ඳ",
+            "index": 320
+        },
+        "322": {
+            "character": "ඳා",
+            "index": 321
+        },
+        "323": {
+            "character": "ඳැ",
+            "index": 322
+        },
+        "324": {
+            "character": "ෑ",
+            "index": 323
+        },
+        "325": {
+            "character": "ඳෑ",
+            "index": 324
+        },
+        "326": {
+            "character": "ඳි",
+            "index": 325
+        },
+        "327": {
+            "character": "ඳී",
+            "index": 326
+        },
+        "328": {
+            "character": "ඳු",
+            "index": 327
+        },
+        "329": {
+            "character": "ඳූ",
+            "index": 328
+        },
+        "33": {
+            "character": "ග්",
+            "index": 32
+        },
+        "330": {
+            "character": "|da ",
+            "index": 329
+        },
+        "331": {
+            "character": " ඳ්",
+            "index": 330
+        },
+        "332": {
+            "character": "ඟ",
+            "index": 331
+        },
+        "333": {
+            "character": "ඟා",
+            "index": 332
+        },
+        "334": {
+            "character": "ඟැ",
+            "index": 333
+        },
+        "335": {
+            "character": " ඟෑ",
+            "index": 334
+        },
+        "336": {
+            "character": " ඟි",
+            "index": 335
+        },
+        "337": {
+            "character": "ඟී",
+            "index": 336
+        },
+        "338": {
+            "character": " ඟු",
+            "index": 337
+        },
+        "339": {
+            "character": " ඟූ",
+            "index": 338
+        },
+        "34": {
+            "character": "ගෝ",
+            "index": 33
+        },
+        "340": {
+            "character": "Õda",
+            "index": 339
+        },
+        "341": {
+            "character": "ඟ්",
+            "index": 340
+        },
+        "342": {
+            "character": "ඬ",
+            "index": 341
+        },
+        "343": {
+            "character": "ැ",
+            "index": 342
+        },
+        "344": {
+            "character": "ඬා",
+            "index": 343
+        },
+        "345": {
+            "character": " ඬැ",
+            "index": 344
+        },
+        "346": {
+            "character": "ඬෑ",
+            "index": 345
+        },
+        "347": {
+            "character": " ඬි",
+            "index": 346
+        },
+        "348": {
+            "character": "ඬී",
+            "index": 347
+        },
+        "349": {
+            "character": " ඬු",
+            "index": 348
+        },
+        "35": {
+            "character": "ග්‍ර",
+            "index": 34
+        },
+        "350": {
+            "character": "ඬූ",
+            "index": 349
+        },
+        "351": {
+            "character": "ඬda ",
+            "index": 350
+        },
+        "352": {
+            "character": " ඬ්",
+            "index": 351
+        },
+        "353": {
+            "character": "ඹ",
+            "index": 352
+        },
+        "354": {
+            "character": "ඹා",
+            "index": 353
+        },
+        "355": {
+            "character": " ඹැ",
+            "index": 354
+        },
+        "356": {
+            "character": " ඹෑ",
+            "index": 355
+        },
+        "357": {
+            "character": " ඹි",
+            "index": 356
+        },
+        "358": {
+            "character": "ඹී",
+            "index": 357
+        },
+        "359": {
+            "character": " ඹු",
+            "index": 358
+        },
+        "36": {
+            "character": "ග්‍රි",
+            "index": 35
+        },
+        "360": {
+            "character": "ඹූ",
+            "index": 359
+        },
+        "361": {
+            "character": "Uda",
+            "index": 360
+        },
+        "362": {
+            "character": "ඹ්",
+            "index": 361
+        },
+        "363": {
+            "character": "භ",
+            "index": 362
+        },
+        "364": {
+            "character": "භා",
+            "index": 363
+        },
+        "365": {
+            "character": "භැ",
+            "index": 364
+        },
+        "366": {
+            "character": "භෑ",
+            "index": 365
+        },
+        "367": {
+            "character": "භි",
+            "index": 366
+        },
+        "368": {
+            "character": "භී",
+            "index": 367
+        },
+        "369": {
+            "character": "භු",
+            "index": 368
+        },
+        "37": {
+            "character": "ග්‍රී",
+            "index": 36
+        },
+        "370": {
+            "character": "භූ",
+            "index": 369
+        },
+        "371": {
+            "character": "Nda",
+            "index": 370
+        },
+        "372": {
+            "character": "භ්",
+            "index": 371
+        },
+        "373": {
+            "character": "ධ",
+            "index": 372
+        },
+        "374": {
+            "character": "ධා",
+            "index": 373
+        },
+        "375": {
+            "character": "ධැ",
+            "index": 374
+        },
+        "376": {
+            "character": "ධෑ",
+            "index": 375
+        },
+        "377": {
+            "character": ",ධි",
+            "index": 376
+        },
+        "378": {
+            "character": ",ධී",
+            "index": 377
+        },
+        "379": {
+            "character": ",ධු",
+            "index": 378
+        },
+        "38": {
+            "character": "ච",
+            "index": 37
+        },
+        "380": {
+            "character": ",ධූ",
+            "index": 379
+        },
+        "381": {
+            "character": "ධෝ",
+            "index": 380
+        },
+        "382": {
+            "character": "ධ්",
+            "index": 381
+        },
+        "383": {
+            "character": "ඨ",
+            "index": 382
+        },
+        "384": {
+            "character": "ඨා",
+            "index": 383
+        },
+        "385": {
+            "character": "ඨැ",
+            "index": 384
+        },
+        "386": {
+            "character": "ඨි",
+            "index": 385
+        },
+        "387": {
+            "character": "ඨී",
+            "index": 386
+        },
+        "388": {
+            "character": "ඨු",
+            "index": 387
+        },
+        "389": {
+            "character": "ඨූ",
+            "index": 388
+        },
+        "39": {
+            "character": "චා",
+            "index": 38
+        },
+        "390": {
+            "character": "ඨ්",
+            "index": 389
+        },
+        "391": {
+            "character": "ඪ",
+            "index": 390
+        },
+        "392": {
+            "character": "ඪා",
+            "index": 391
+        },
+        "393": {
+            "character": "ඪි",
+            "index": 392
+        },
+        "394": {
+            "character": "Vda",
+            "index": 393
+        },
+        "395": {
+            "character": "ඵ",
+            "index": 394
+        },
+        "396": {
+            "character": "ඵා",
+            "index": 395
+        },
+        "397": {
+            "character": "ඵු",
+            "index": 396
+        },
+        "398": {
+            "character": "ඵි",
+            "index": 397
+        },
+        "399": {
+            "character": "Mda",
+            "index": 398
+        },
+        "4": {
+            "character": "ඈ",
+            "index": 3
+        },
+        "40": {
+            "character": "චැ",
+            "index": 39
+        },
+        "400": {
+            "character": "ඵ් ",
+            "index": 399
+        },
+        "401": {
+            "character": "ථ",
+            "index": 400
+        },
+        "402": {
+            "character": "ථා",
+            "index": 401
+        },
+        "403": {
+            "character": "ථැ",
+            "index": 402
+        },
+        "404": {
+            "character": "ථ්",
+            "index": 403
+        },
+        "405": {
+            "character": "ා",
+            "index": 404
+        },
+        "406": {
+            "character": "ෟ",
+            "index": 405
+        },
+        "407": {
+            "character": "ණැ",
+            "index": 406
+        },
+        "408": {
+            "character": "ණෑ",
+            "index": 407
+        },
+        "409": {
+            "character": "ෘ",
+            "index": 408
+        },
+        "41": {
+            "character": "චෑ",
+            "index": 40
+        },
+        "410": {
+            "character": "ණී",
+            "index": 409
+        },
+        "411": {
+            "character": "ණු",
+            "index": 410
+        },
+        "412": {
+            "character": "ණූ",
+            "index": 411
+        },
+        "413": {
+            "character": "Kda",
+            "index": 412
+        },
+        "414": {
+            "character": "ණ්",
+            "index": 413
+        },
+        "415": {
+            "character": "ඥ",
+            "index": 414
+        },
+        "416": {
+            "character": "ඥා",
+            "index": 415
+        },
+        "417": {
+            "character": "{da",
+            "index": 416
+        },
+        "418": {
+            "character": "ඤ",
+            "index": 417
+        },
+        "419": {
+            "character": "ඤා",
+            "index": 418
+        },
+        "42": {
+            "character": "චි",
+            "index": 41
+        },
+        "420": {
+            "character": "ඤු",
+            "index": 419
+        },
+        "421": {
+            "character": "[da",
+            "index": 420
+        },
+        "422": {
+            "character": "ඤ්",
+            "index": 421
+        },
+        "423": {
+            "character": "ඣ",
+            "index": 422
+        },
+        "424": {
+            "character": "ඣා",
+            "index": 423
+        },
+        "425": {
+            "character": "ඣු",
+            "index": 424
+        },
+        "426": {
+            "character": "COda",
+            "index": 425
+        },
+        "427": {
+            "character": "ඣ්",
+            "index": 426
+        },
+        "428": {
+            "character": "ඦ",
+            "index": 427
+        },
+        "429": {
+            "character": "ඦා",
+            "index": 428
+        },
+        "43": {
+            "character": "චී",
+            "index": 42
+        },
+        "430": {
+            "character": "ඦැ",
+            "index": 429
+        },
+        "431": {
+            "character": "ඦෑ",
+            "index": 430
+        },
+        "432": {
+            "character": "ඦි",
+            "index": 431
+        },
+        "433": {
+            "character": "ඦු",
+            "index": 432
+        },
+        "434": {
+            "character": "ඦූ",
+            "index": 433
+        },
+        "435": {
+            "character": "ඦෝ",
+            "index": 434
+        },
+        "436": {
+            "character": "ඦ්",
+            "index": 435
+        },
+        "437": {
+            "character": "ඡ",
+            "index": 436
+        },
+        "438": {
+            "character": "ඡා",
+            "index": 437
+        },
+        "439": {
+            "character": "ඡැ",
+            "index": 438
+        },
+        "44": {
+            "character": "චු",
+            "index": 43
+        },
+        "440": {
+            "character": "ඡෑ",
+            "index": 439
+        },
+        "441": {
+            "character": "ඡි",
+            "index": 440
+        },
+        "442": {
+            "character": "ඡේ",
+            "index": 441
+        },
+        "443": {
+            "character": "තැ",
+            "index": 442
+        },
+        "444": {
+            "character": "තෑ",
+            "index": 443
+        },
+        "445": {
+            "character": "ත්‍රැ",
+            "index": 444
+        },
+        "446": {
+            "character": "ත්‍රෑ",
+            "index": 445
+        },
+        "447": {
+            "character": ";%da",
+            "index": 446
+        },
+        "448": {
+            "character": "ළු",
+            "index": 447
+        },
+        "449": {
+            "character": "ෲ",
+            "index": 448
+        },
+        "45": {
+            "character": "චූ",
+            "index": 44
+        },
+        "450": {
+            "character": "HQ",
+            "index": 449
+        },
+        "451": {
+            "character": "ff",
+            "index": 450
+        },
+        "452": {
+            "character": "f",
+            "index": 451
+        },
+        "453": {
+            "character": "H",
+            "index": 452
+        },
+        "454": {
+            "character": "Hq",
+            "index": 453
+        },
+        "46": {
+            "character": "ච්",
+            "index": 45
+        },
+        "47": {
+            "character": "චෝ",
+            "index": 46
+        },
+        "48": {
+            "character": "ච්‍ර",
+            "index": 47
+        },
+        "49": {
+            "character": "ච්‍ර්",
+            "index": 48
+        },
+        "5": {
+            "character": "ඉ",
+            "index": 4
+        },
+        "50": {
+            "character": "ච්‍රී",
+            "index": 49
+        },
+        "51": {
+            "character": "ජ",
+            "index": 50
+        },
+        "52": {
+            "character": "ජා",
+            "index": 51
+        },
+        "53": {
+            "character": "ජැ",
+            "index": 52
+        },
+        "54": {
+            "character": "ජෑ",
+            "index": 53
+        },
+        "55": {
+            "character": "ජි",
+            "index": 54
+        },
+        "56": {
+            "character": "ජී",
+            "index": 55
+        },
+        "57": {
+            "character": "ජු",
+            "index": 56
+        },
+        "58": {
+            "character": "ජූ",
+            "index": 57
+        },
+        "59": {
+            "character": "ජ්",
+            "index": 58
+        },
+        "6": {
+            "character": "ඊ",
+            "index": 5
+        },
+        "60": {
+            "character": "ජෝ",
+            "index": 59
+        },
+        "61": {
+            "character": "ජ්‍ර",
+            "index": 60
+        },
+        "62": {
+            "character": "ජ්‍රි",
+            "index": 61
+        },
+        "63": {
+            "character": "ජ්‍රී",
+            "index": 62
+        },
+        "64": {
+            "character": "ට",
+            "index": 63
+        },
+        "65": {
+            "character": "ටා",
+            "index": 64
+        },
+        "66": {
+            "character": "ටැ",
+            "index": 65
+        },
+        "67": {
+            "character": "ටෑ",
+            "index": 66
+        },
+        "68": {
+            "character": "ටි",
+            "index": 67
+        },
+        "69": {
+            "character": "ටී",
+            "index": 68
+        },
+        "7": {
+            "character": "උ",
+            "index": 6
+        },
+        "70": {
+            "character": "ටු",
+            "index": 69
+        },
+        "71": {
+            "character": "ටූ",
+            "index": 70
+        },
+        "72": {
+            "character": "ට්",
+            "index": 71
+        },
+        "73": {
+            "character": "ටෝ",
+            "index": 72
+        },
+        "74": {
+            "character": "ට්‍ර",
+            "index": 73
+        },
+        "75": {
+            "character": "ට්‍ර්",
+            "index": 74
+        },
+        "76": {
+            "character": "ට්‍රි",
+            "index": 75
+        },
+        "77": {
+            "character": "ඩ",
+            "index": 76
+        },
+        "78": {
+            "character": "ඩා",
+            "index": 77
+        },
+        "79": {
+            "character": "ඩැ",
+            "index": 78
+        },
+        "8": {
+            "character": "එ",
+            "index": 7
+        },
+        "80": {
+            "character": "ඩෑ",
+            "index": 79
+        },
+        "81": {
+            "character": "ඩි",
+            "index": 80
+        },
+        "82": {
+            "character": "ඩී",
+            "index": 81
+        },
+        "83": {
+            "character": "ඩු",
+            "index": 82
+        },
+        "84": {
+            "character": "ඩූ",
+            "index": 83
+        },
+        "85": {
+            "character": "ඩ්",
+            "index": 84
+        },
+        "86": {
+            "character": "ඩෝ",
+            "index": 85
+        },
+        "87": {
+            "character": "ඩ්‍ර",
+            "index": 86
+        },
+        "88": {
+            "character": "ඩ්‍ර්",
+            "index": 87
+        },
+        "89": {
+            "character": "ඩ්‍රි",
+            "index": 88
+        },
+        "9": {
+            "character": "ඒ",
+            "index": 8
+        },
+        "90": {
+            "character": "ණ",
+            "index": 89
+        },
+        "91": {
+            "character": "ණා",
+            "index": 90
+        },
+        "92": {
+            "character": "ණි",
+            "index": 91
+        },
+        "93": {
+            "character": "ත",
+            "index": 92
+        },
+        "94": {
+            "character": "තා",
+            "index": 93
+        },
+        "95": {
+            "character": "ති",
+            "index": 94
+        },
+        "96": {
+            "character": "තී",
+            "index": 95
+        },
+        "97": {
+            "character": "තු",
+            "index": 96
+        },
+        "98": {
+            "character": "තූ",
+            "index": 97
+        },
+        "99": {
+            "character": "ත්",
+            "index": 98
+        }
+    }
+}
