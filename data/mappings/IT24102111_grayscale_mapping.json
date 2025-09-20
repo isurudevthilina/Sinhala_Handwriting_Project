@@ -1,0 +1,39 @@
+{
+  "preprocessing_technique": "Grayscale Conversion",
+  "member_info": {
+    "student_id": "IT24102111",
+    "name": "Thiqa Zibrij A.G",
+    "group": "2025-Y2-S1-MLB-B8G1-04"
+  },
+  "technique_details": {
+    "method": "RGB to Grayscale conversion using OpenCV",
+    "formula": "Grayscale = 0.299*R + 0.587*G + 0.114*B",
+    "input": "RGB images (3 channels)",
+    "output": "Grayscale images (1 channel)",
+    "benefits": [
+      "Reduces data size by ~67%",
+      "Faster processing",
+      "Focuses on shape and structure",
+      "Reduces model complexity"
+    ]
+  },
+  "processing_stats": {
+    "total_images_processed": 5,
+    "success_rate": 100.0,
+    "average_size_reduction": "7.3%"
+  },
+  "output_structure": {
+    "base_path": "results/outputs/processed/IT24102111/",
+    "naming_convention": "gray_{original_filename}",
+    "folder_structure": [
+      "grayscale_train/",
+      "grayscale_valid/",
+      "grayscale_test/"
+    ]
+  },
+  "eda_outputs": [
+    "before_after_comparison.png",
+    "grayscale_analysis.png"
+  ],
+  "timestamp": "2025-09-20T16:29:55.786377"
+}
