@@ -1,0 +1,46 @@
+{
+  "preprocessing_technique": "Histogram Equalization",
+  "member_info": {
+    "student_id": "IT24102160",
+    "name": "Gangamini A.H.A",
+    "group": "2025-Y2-S1-MLB-B8G1-04"
+  },
+  "technique_details": {
+    "method": "Adaptive histogram equalization using OpenCV",
+    "formula": "Cumulative Distribution Function (CDF) transformation",
+    "input": "Grayscale images from Member A (IT24102111)",
+    "output": "Contrast-enhanced grayscale images",
+    "algorithm": "cv2.equalizeHist()",
+    "benefits": [
+      "Enhances contrast globally",
+      "Makes faint strokes more visible",
+      "Improves overall image clarity",
+      "Better feature extraction for CNN"
+    ]
+  },
+  "processing_stats": {
+    "total_images_processed": 5,
+    "success_rate": 100.0,
+    "average_contrast_improvement": "25.4%"
+  },
+  "input_structure": {
+    "source_member": "IT24102111 (Thiqa Zibrij A.G)",
+    "input_path": "results/outputs/processed/IT24102111/grayscale_train/",
+    "input_format": "Grayscale PNG images"
+  },
+  "output_structure": {
+    "base_path": "results/outputs/processed/IT24102160/",
+    "naming_convention": "hist_eq_{original_filename}",
+    "folder_structure": [
+      "histogram_eq_train/",
+      "histogram_eq_valid/",
+      "histogram_eq_test/"
+    ]
+  },
+  "eda_outputs": [
+    "histogram_comparison.png",
+    "contrast_analysis.png",
+    "detailed_comparison.png"
+  ],
+  "timestamp": "2025-09-20T17:03:25.186354"
+}

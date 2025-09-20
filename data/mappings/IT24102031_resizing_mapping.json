@@ -1,0 +1,50 @@
+{
+  "preprocessing_technique": "Image Resizing",
+  "member_info": {
+    "student_id": "IT24102031",
+    "name": "Disanayaka K.G.G.S",
+    "group": "2025-Y2-S1-MLB-B8G1-04"
+  },
+  "technique_details": {
+    "method": "Resize with aspect ratio preservation using padding",
+    "target_size": "80×80 pixels",
+    "interpolation": "cv2.INTER_AREA (best for downsampling)",
+    "aspect_ratio": "Preserved using padding with zeros",
+    "input": "Normalized images from Member C (IT24102051)",
+    "output": "Standardized 80×80 grayscale images",
+    "benefits": [
+      "Uniform input size for CNN",
+      "Enables batch processing",
+      "Reduces memory usage",
+      "Improves training efficiency",
+      "Maintains aspect ratio integrity"
+    ]
+  },
+  "processing_stats": {
+    "total_images_processed": 5,
+    "success_rate": 100.0,
+    "target_dimensions": "80×80",
+    "average_original_area": "6400",
+    "standard_area": "6400 pixels (80×80)"
+  },
+  "input_structure": {
+    "source_member": "IT24102051 (Madhushan P.S.A.D.Y)",
+    "input_path": "results/outputs/processed/IT24102051/normalized_train/",
+    "input_format": "Normalized grayscale PNG images"
+  },
+  "output_structure": {
+    "base_path": "results/outputs/processed/IT24102031/",
+    "naming_convention": "resized_{original_filename}",
+    "folder_structure": [
+      "resized_80x80_train/",
+      "resized_80x80_valid/",
+      "resized_80x80_test/"
+    ]
+  },
+  "eda_outputs": [
+    "resizing_comparison.png",
+    "size_analysis.png",
+    "aspect_ratio_analysis.png"
+  ],
+  "timestamp": "2025-09-20T17:18:49.599020"
+}

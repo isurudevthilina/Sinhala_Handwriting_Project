@@ -1,0 +1,59 @@
+{
+  "preprocessing_technique": "Noise Reduction/Denoising",
+  "member_info": {
+    "student_id": "IT24102090",
+    "name": "Bandara D M R M",
+    "group": "2025-Y2-S1-MLB-B8G1-04"
+  },
+  "technique_details": {
+    "primary_method": "Bilateral Filter with Morphological Closing",
+    "algorithms_used": [
+      "Bilateral Filter (edge-preserving)",
+      "Morphological Closing (artifact removal)",
+      "Gaussian Blur (high-frequency noise)",
+      "Median Filter (salt-pepper noise)",
+      "Non-Local Means (texture preservation)"
+    ],
+    "parameters": {
+      "bilateral_filter": "d=9, sigmaColor=75, sigmaSpace=75",
+      "morphological_kernel": "1x1 elliptical kernel",
+      "gaussian_kernel": "3x3, sigma=0.5"
+    },
+    "input": "Resized 80x80 images from Member D (IT24102031)",
+    "output": "Clean, denoised 80x80 grayscale images",
+    "benefits": [
+      "Removes scanning artifacts",
+      "Preserves character edge definition",
+      "Reduces background noise",
+      "Improves feature extraction quality",
+      "Better CNN training performance"
+    ]
+  },
+  "processing_stats": {
+    "total_images_processed": 5,
+    "success_rate": 100.0,
+    "average_psnr": "29.94 dB",
+    "average_edge_preservation": "0.974",
+    "average_noise_reduction": "13.4%"
+  },
+  "input_structure": {
+    "source_member": "IT24102031 (Disanayaka K.G.G.S)",
+    "input_path": "results/outputs/processed/IT24102031/resized_80x80_train/",
+    "input_format": "Resized 80x80 grayscale PNG images"
+  },
+  "output_structure": {
+    "base_path": "results/outputs/processed/IT24102090/",
+    "naming_convention": "denoised_{original_filename}",
+    "folder_structure": [
+      "denoised_train/",
+      "denoised_valid/",
+      "denoised_test/"
+    ]
+  },
+  "eda_outputs": [
+    "denoising_methods_comparison.png",
+    "denoising_effectiveness.png",
+    "before_after_analysis.png"
+  ],
+  "timestamp": "2025-09-20T17:29:56.461447"
+}
