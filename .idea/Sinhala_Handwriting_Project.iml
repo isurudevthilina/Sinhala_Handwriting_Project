@@ -7,8 +7,10 @@
       <excludeFolder url="file://$MODULE_DIR$/data/raw/test" />
       <excludeFolder url="file://$MODULE_DIR$/data/raw/train" />
       <excludeFolder url="file://$MODULE_DIR$/data/raw/valid" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv1" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv2" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.11 (Sinhala_Handwriting_Project)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.13 (Sinhala_Handwriting_Project)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
