@@ -21,7 +21,7 @@
   "processing_stats": {
     "total_images_processed": 5,
     "success_rate": 100.0,
-    "average_contrast_improvement": "25.4%"
+    "average_contrast_improvement": "-7.0%"
   },
   "input_structure": {
     "source_member": "IT24102111 (Thiqa Zibrij A.G)",
@@ -42,5 +42,5 @@
     "contrast_analysis.png",
     "detailed_comparison.png"
   ],
-  "timestamp": "2025-09-20T17:03:25.186354"
+  "timestamp": "2025-09-22T15:02:04.457279"
 }

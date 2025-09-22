@@ -20,7 +20,7 @@
   "processing_stats": {
     "total_images_processed": 5,
     "success_rate": 100.0,
-    "average_size_reduction": "7.3%"
+    "average_size_reduction": "0.4%"
   },
   "output_structure": {
     "base_path": "results/outputs/processed/IT24102111/",
@@ -35,5 +35,5 @@
     "before_after_comparison.png",
     "grayscale_analysis.png"
   ],
-  "timestamp": "2025-09-20T16:29:55.786377"
+  "timestamp": "2025-09-22T11:46:05.609110"
 }
