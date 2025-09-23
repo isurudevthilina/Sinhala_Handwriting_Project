@@ -13,6 +13,9 @@ This project aims to recognize Sinhala handwritten characters and convert them t
 
 ## Dataset
 - Sourced from Kaggle: Sinhala Letter and Modifications
+- Uploaded dataset link(Onedrive): https://mysliit-my.sharepoint.com/:f:/g/personal/it24102032_my_sliit_lk/EuiiYzQ4WahKoINpivNkFq8Bfo67OSPiMrgkL5sL42nLhw?e=b61oTd
+U can download from there and use it for the project
+
 - Link to dataset: [Kaggle Dataset](https://www.kaggle.com/datasets/sathiralamal/sinhala-letter-454)
 - >81,000+ images
 - Image size: 80x80 JPG
